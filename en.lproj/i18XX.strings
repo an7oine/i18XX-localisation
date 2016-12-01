@@ -1,0 +1,9 @@
+﻿/* Junan ostonäkymän tilannetietorivi */
+"%@: kassa %@ %d, junat %d / %d" = "%1$@: kassa %2$@ %3$d, junat %4$d / %5$d";
+
+/* Otsikkoteksti */
+"Käytetyt junat" = "Käytetyt junat";
+
+/* Otsikkoteksti */
+"Myynnissä olevat junat" = "Myynnissä olevat junat";
+

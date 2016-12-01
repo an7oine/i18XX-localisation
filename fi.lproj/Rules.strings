@@ -1,0 +1,396 @@
+﻿/* Cost of laying a Tile on a Desert Hexag */
+"Aavikkoheksan rakennuskustannus" = "Aavikkoheksan rakennuskustannus";
+
+/* Disallow terminating at (terminus) offboard Stations at both ends of a Route */
+"Aja etäkohteeseen enintään kerran" = "Aja etäkohteeseen enintään kerran";
+
+/* A Train may not re-enter a hexag once it has left that hexag */
+"Aja kullakin laatalla vain kerran" = "Aja kullakin laatalla vain kerran";
+
+/* Trains may call at Large Stations fully occupied by other Companies */
+"Aja miehitetyn aseman läpi" = "Aja miehitetyn aseman läpi";
+
+/* Trains may pass through Small Stations on their Routes */
+"Ajo voi ohittaa kylät" = "Ajo voi ohittaa kylät";
+
+/* Trains may terminate at Small Stations */
+"Ajo voi päättyä kylään" = "Ajo voi päättyä kylään";
+
+/* Trains may terminate at Large Stations fully occupied by other Companies */
+"Ajo voi päättyä miehitetylle asemalle" = "Ajo voi päättyä miehitetylle asemalle";
+
+/* At least one Route must include the Company Base */
+"Ajojen kotiasemavaatimus" = "Ajojen kotiasemavaatimus";
+
+/* All Train runs must form a coherent network of Routes */
+"Ajojen yhtenäisyysvaatimus" = "Ajojen yhtenäisyysvaatimus";
+
+/* A Public Company with a valid Route must own a Train at the end of its Turn */
+"Ajokelpoinen yhtiö vaatii junan" = "Ajokelpoinen yhtiö vaatii junan";
+
+/* Companies to be started immediately */
+"Aloittavat yhtiöt" = "Aloittavat yhtiöt";
+
+/* Threshold (Dividend/Share price) ratio for Share price sinking to occur */
+"Arvonlaskun tuottokynnys" = "Arvonlaskun tuottokynnys";
+
+/* Limit of Share price growth per Turn, with regard to Dividend / current price */
+"Arvonnousu vuorossa enintään" = "Arvonnousu vuorossa enintään";
+
+/* Threshold (Dividend/Share price) ratio for Share price growth to occur */
+"Arvonnousun tuottokynnys" = "Arvonnousun tuottokynnys";
+
+/* Station tile upgrades require Company access with an actual Train */
+"Asemien ajettavuusvaatimus" = "Asemien ajettavuusvaatimus";
+
+/* Station tile upgrades require a revenue change */
+"Asemien arvonnousuvaatimus" = "Asemien arvonnousuvaatimus";
+
+/* Cost of laying Base / First / Subsequent Token */
+"Asemien hinnat" = "Asemien hinnat";
+
+/* Disallow secondary (Small Station) capacities of all Trains */
+"Älä huomioi kyläkapasiteettia" = "Älä huomioi kyläkapasiteettia";
+
+/* Private Companies prevent building in their home Hexagon if owned by a Player */
+"Ei laattaa pelaajan heksoille" = "Ei laattaa pelaajan heksoille";
+
+/* All Private Companies still in operation prevent building in their home Hexagon */
+"Ei laattaa yksityisten heksoille" = "Ei laattaa yksityisten heksoille";
+
+/* Shares in the Company Treasury do not pay a dividend */
+"Ei osinkoa yhtiön hallussa" = "Ei osinkoa yhtiön hallussa";
+
+/* Companies trade in Company Credits, separate from regular (Bank and Player) funds */
+"Erillinen yhtiövaluutta (CC)" = "Erillinen yhtiövaluutta (CC)";
+
+/* Calling at (large) offboard Stations requires a Company token there */
+"Etäkohde edellyttää omaa asemaa" = "Etäkohde edellyttää omaa asemaa";
+
+/* Index of Revenue paid for Off-board locations */
+"Etäkohteiden tuottoaskelma" = "Etäkohteiden tuottoaskelma";
+
+/* Share worth, at or below which a Public Company is vulnerable to acquisition (grey zone) */
+"Harmaa hintavyöhyke" = "Harmaa hintavyöhyke";
+
+/* The game ends after an OR (sequence) if a Share price reaches top of the SPI */
+"Hintakatto päättää pelin" = "Hintakatto päättää pelin";
+
+/* The game ends immediately if a Share price reaches top of the SPI */
+"Hintakatto päättää pelin heti" = "Hintakatto päättää pelin heti";
+
+/* Share price movement whenever the Earnings are withheld in Company Treasury */
+"Hintakehitys ilman osinkoa" = "Hintakehitys ilman osinkoa";
+
+/* Sold shares' price moves only once per block of shares sold */
+"Hintakehitys osakenippua kohti" = "Hintakehitys osakenippua kohti";
+
+/* Share price movement whenever a Dividend is issued */
+"Hintakehitys osinkoa jaettaessa" = "Hintakehitys osinkoa jaettaessa";
+
+/* Share price movement whenever the Earnings are split between Dividends and Treasury */
+"Hintakehitys puolella osingolla" = "Hintakehitys puolella osingolla";
+
+/* Sold shares' price moves only once per block of shares sold */
+"Hintakehitys vain johtajalle" = "Hintakehitys vain johtajalle";
+
+/* Sold shares' price moves only at the end of the SDR Turn */
+"Hintakehitys vuoron jälkeen" = "Hintakehitys vuoron jälkeen";
+
+/* Return any odd remainder to the Bank when dividend is halved */
+"Hylkää osingon jakojäännös" = "Hylkää osingon jakojäännös";
+
+/* Cost of laying a Tile on a River Hexag */
+"Jokiheksan rakennuskustannus" = "Jokiheksan rakennuskustannus";
+
+/* Maximum number of Trains permitted at any time for a Company */
+"Junien enimmäismäärä" = "Junien enimmäismäärä";
+
+/* Tilt the game board 30 degrees anticlockwise, so that SW points to the South */
+"Käännetty lauta" = "Käännetty lauta";
+
+/* A Public Company buying its only Train may use its Director's personal Cash */
+"Käytä johtajan varoja" = "Käytä johtajan varoja";
+
+/* Trains to be removed from play */
+"Käytöstä poistuvat junat" = "Käytöstä poistuvat junat";
+
+/* Share worth, at or below which a Public Company is not counted against the certificate limit (yellow zone) */
+"Keltainen hintavyöhyke" = "Keltainen hintavyöhyke";
+
+/* Only one Train may score any Station per Turn */
+"Kerää asemien tuotto vain kerran" = "Kerää asemien tuotto vain kerran";
+
+/* The game ends immediately if a Player goes Bankrupt */
+"Konkurssi päättää pelin heti" = "Konkurssi päättää pelin heti";
+
+/* Company Tokens are placed in its Base Station(s) immediately upon floating */
+"Kotiasema yhtiön käynnistyessä" = "Kotiasema yhtiön käynnistyessä";
+
+/* Cost of laying any Tile */
+"Kunkin laatan rakennuskustannus" = "Kunkin laatan rakennuskustannus";
+
+/* Share Price Index is hexagonal (2.5D) instead of linear or 2D */
+"Kuusikulmaiset osakehinnat" = "Kuusikulmaiset osakehinnat";
+
+/* Only allow calling at Proxy Stations for a Token holder */
+"Laatta-asemat vain omistajalle" = "Laatta-asemat vain omistajalle";
+
+/* A Village (of given class) can be placed in the middle of any Edge-to-Edge Connection */
+"Lisää kylä radan varteen" = "Lisää kylä radan varteen";
+
+/* Board development is dependent on Survey Parties controlled by the Companies */
+"Maanmittarit" = "Maanmittarit";
+
+/* Any Earnings are multiplied by the size of outstanding equity */
+"Maksa täysi tuotto osaketta kohti" = "Maksa täysi tuotto osaketta kohti";
+
+/* Share price movement after an SDR, whenever there are Shares in the Pool */
+"Markkinaosakkeiden hintakehitys" = "Markkinaosakkeiden hintakehitys";
+
+/* Any Dividends for Shares in the Bank Pool are paid to the Company Treasury */
+"Markkinoiden osinko kassaan" = "Markkinoiden osinko kassaan";
+
+/* Any Dividends for Shares in the IPO are paid to the Company Treasury */
+"Merkitsemätön osinko kassaan" = "Merkitsemätön osinko kassaan";
+
+/* Cost of laying a Tile on a Forest Hexag */
+"Metsäheksan rakennuskustannus" = "Metsäheksan rakennuskustannus";
+
+/* Number of Large Stations, fully occupied by other Companies, that may be ran through per Turn */
+"Miehitettyjen asemien läpiajoja" = "Miehitettyjen asemien läpiajoja";
+
+/* One Small Station on a Tile may be converted into a Large one (Yellow-to-Yellow) */
+"Muunna kylä kaupungiksi" = "Muunna kylä kaupungiksi";
+
+/* Trains to be converted to another type */
+"Muunnettavat junat" = "Muunnettavat junat";
+
+/* Share price movement whenever stock is sold */
+"Myydyn osakkeen hintakehitys" = "Myydyn osakkeen hintakehitys";
+
+/* A Private Company is closed immediately upon sale to the Bank Pool */
+"Myyty yksityinen suljetaan" = "Myyty yksityinen suljetaan";
+
+/* Maximum number of Route Chits carried by a single Train */
+"Nimibonuksia junalla enintään" = "Nimibonuksia junalla enintään";
+
+/* Private Companies may be voluntarily closed down by their owner */
+"Omistaja voi sulkea yksityisen" = "Omistaja voi sulkea yksityisen";
+
+/* Number of Operating Rounds between consecutive Share Dealing Rounds */
+"Operointikierroksia peräkkäin" = "Operointikierroksia peräkkäin";
+
+/* Share worth, at or below which a Public Company is subject to unrestricted certificate holdings (orange zone) */
+"Oranssi hintavyöhyke" = "Oranssi hintavyöhyke";
+
+/* Company shares always cost their market value, even from the IPO */
+"Osakeanti markkina-arvolla" = "Osakeanti markkina-arvolla";
+
+/* Maximum number of Certificates held by any Player */
+"Osakekirjarajoitus" = "Osakekirjarajoitus";
+
+/* Maximum number of Shares per Company in the Bank Pool at any time */
+"Osakemaksimi markkinoilla" = "Osakemaksimi markkinoilla";
+
+/* Maximum number of Certificates of a Company held by any one Player */
+"Osakemaksimi yhtiössä" = "Osakemaksimi yhtiössä";
+
+/* Criteria defining the order in which Public Companies operate (def. by number) */
+"Osakeyhtiöiden toimintajärjestys" = "Osakeyhtiöiden toimintajärjestys";
+
+/* Public Companies operate before Privates */
+"Osakeyhtiöt toimivat ensin" = "Osakeyhtiöt toimivat ensin";
+
+/* Sold Shares return to the Bank (not Pool) */
+"Osakkeet myydään pankille" = "Osakkeet myydään pankille";
+
+/* Origin (initial owner) of newly issued shares */
+"Osakkeiden alkuperäinen haltija" = "Osakkeiden alkuperäinen haltija";
+
+/* Share price movement whenever stock is bought */
+"Ostetun osakkeen hintakehitys" = "Ostetun osakkeen hintakehitys";
+
+/* Maximum equity in a Company held by any one Player */
+"Osuusmaksimi yhtiössä" = "Osuusmaksimi yhtiössä";
+
+/* Total cash in game */
+"Pankin koko" = "Pankin koko";
+
+/* Two Large Stations on a Tile may be upgraded to converge into one (Yellow-to-Green) */
+"Päivitä kaksi kaupunkia yhdeksi" = "Päivitä kaksi kaupunkia yhdeksi";
+
+/* Two Small Stations on a Tile may be upgraded into two Large ones (Yellow-to-Green) */
+"Päivitä kaksi kylää kaupungeiksi" = "Päivitä kaksi kylää kaupungeiksi";
+
+/* Two Small Stations on a Tile may be upgraded to converge in one Large (Yellow-to-Green) */
+"Päivitä kaksi kylää kaupungiksi" = "Päivitä kaksi kylää kaupungiksi";
+
+/* Two Small Stations on a Tile may be upgraded to converge in one Small (Yellow-to-Green) */
+"Päivitä kaksi kylää yhdeksi" = "Päivitä kaksi kylää yhdeksi";
+
+/* One Small Station on a Tile may be upgraded into two Small ones (Yellow-to-Green) */
+"Päivitä kylä kahdeksi kyläksi" = "Päivitä kylä kahdeksi kyläksi";
+
+/* One Small Station on a Tile may be upgraded into a Large one (Yellow-to-Green) */
+"Päivitä kylä kaupungiksi" = "Päivitä kylä kaupungiksi";
+
+/* Tiles may be upgraded with other Tiles of the same colour */
+"Päivitä samalla värillä" = "Päivitä samalla värillä";
+
+/* Whenever the game is ending, complete a full sequence of OR's first (not 1 round) */
+"Pelaa osakekierrokseen asti" = "Pelaa osakekierrokseen asti";
+
+/* Initial capital in cash of each Player */
+"Pelaajan alkupääoma" = "Pelaajan alkupääoma";
+
+/* Maximum number of players */
+"Pelaajien enimmäismäärä" = "Pelaajien enimmäismäärä";
+
+/* Minimum number of players */
+"Pelaajien vähimmäismäärä" = "Pelaajien vähimmäismäärä";
+
+/* Share worth at which the game ends */
+"Pelin päättävä osakkeen arvo" = "Pelin päättävä osakkeen arvo";
+
+/* One Small Station on a Tile may be converted into Plain Track (Yellow-to-Yellow) */
+"Poista kylä radan varresta" = "Poista kylä radan varresta";
+
+/* Share worth, at or below which a Public Company is deemed worthless and ceases to operate (red zone) */
+"Punainen hintavyöhyke" = "Punainen hintavyöhyke";
+
+/* Halve the Earnings of each Train */
+"Puolita junatuotot" = "Puolita junatuotot";
+
+/* Earnings may be split in half between withholding and issuing Dividends */
+"Puolitettu osinko" = "Puolitettu osinko";
+
+/* Only one Train may call at any Station per Turn */
+"Pysähdy asemilla vain yhdellä junalla" = "Pysähdy asemilla vain yhdellä junalla";
+
+/* One Train may Call at multiple off-board Stations on the same Tile */
+"Pysähdy kahdessa etäkohteessa samalla laatalla" = "Pysähdy kahdessa etäkohteessa samalla laatalla";
+
+/* One Train may Call at multiple Stations on the same Tile */
+"Pysähdy laatalla kahdesti" = "Pysähdy laatalla kahdesti";
+
+/* One Train may Call at multiple (Small only) Stations on the same Tile */
+"Pysähdy laatan kylissä kahdesti" = "Pysähdy laatan kylissä kahdesti";
+
+/* Each Train must count (not merely visit) a called-at Station with a Company Token */
+"Pysähdy omalla asemalla" = "Pysähdy omalla asemalla";
+
+/* Trains may call at Halts */
+"Pysähdy seisakkeilla" = "Pysähdy seisakkeilla";
+
+/* Lay costs at hexag edges survive even after Tracks are built from both sides */
+"Pysyvät heksojen ylitysmaksut" = "Pysyvät heksojen ylitysmaksut";
+
+/* Lay costs for hexags survive beyond the first Tile laid */
+"Pysyvät rakennuskustannukset" = "Pysyvät rakennuskustannukset";
+
+/* A Train may Call at any number of Small Stations along its route */
+"Rajoitukseton ajo kylien kautta" = "Rajoitukseton ajo kylien kautta";
+
+/* Plain tile upgrades require Company access with an actual Train */
+"Ratojen ajettavuusvaatimus" = "Ratojen ajettavuusvaatimus";
+
+/* Share worth, at or below which a Public Company is subject to unrestricted purchasing per SDR turn (brown zone) */
+"Ruskea hintavyöhyke" = "Ruskea hintavyöhyke";
+
+/* Highest Tile colour available for Upgrades */
+"Saatavilla olevat laatat" = "Saatavilla olevat laatat";
+
+/* Two Large Stations may be upgraded into one with less than combined slot count */
+"Salli asemien vapaa yhdistäminen" = "Salli asemien vapaa yhdistäminen";
+
+/* Companies to be closed down immediately */
+"Suljettavat yhtiöt" = "Suljettavat yhtiöt";
+
+/* Cost of laying a Tile on a Swamp Hexag */
+"Suoheksan rakennuskustannus" = "Suoheksan rakennuskustannus";
+
+/* Round any halved dividends in favour of Treasury (instead of Shareholders) */
+"Suosi yhtiön kassaa puolituksessa" = "Suosi yhtiön kassaa puolituksessa";
+
+/* Share price movement after an SDR, whenever the Players hold all Shares */
+"Täyden omistuksen hintakehitys" = "Täyden omistuksen hintakehitys";
+
+/* Public Companies receive the total of its Share capital when floated */
+"Täysi aloituspääoma" = "Täysi aloituspääoma";
+
+/* Private Companies may be traded between Players (on either party's Turn) */
+"Tee kauppaa yksityisillä" = "Tee kauppaa yksityisillä";
+
+/* Plain track upgrades require Company access to some of the new Track */
+"Tiukka päivityssääntö" = "Tiukka päivityssääntö";
+
+/* Receiver of secondary Revenues from the Privates: [base] */
+"Toissijaisen tuoton saaja" = "Toissijaisen tuoton saaja";
+
+/* The game ends after an OR (sequence) if no Shares are bought in an SDR */
+"Tyhjä osakekierros päättää pelin" = "Tyhjä osakekierros päättää pelin";
+
+/* The game ends after an OR (sequence) if the Bank is depleted */
+"Tyhjä pankki päättää pelin" = "Tyhjä pankki päättää pelin";
+
+/* Sets of addresses for (offboard) Stations, each set being regarded as a single Station */
+"Usealle laatalle ulottuvat asemat" = "Usealle laatalle ulottuvat asemat";
+
+/* Multiple Trains may run simultaneously on single lenghts of Track */
+"Useampi ajo samalla rataosuudella" = "Useampi ajo samalla rataosuudella";
+
+/* Maximum number of Tokens laid per Turn (in addition to any Base Tokens) */
+"Uusia asemia vuorossa" = "Uusia asemia vuorossa";
+
+/* Company Tokens are placed in its Base Station(s) at game startup */
+"Valmiiksi painetut kotiasemat" = "Valmiiksi painetut kotiasemat";
+
+/* All Companies have a Destination Marker to be freely placed on any hex */
+"Vapaasti sijoitettavat kohdemerkit" = "Vapaasti sijoitettavat kohdemerkit";
+
+/* Special Rules applied to Earnings collected using a leased Train */
+"Vuokratun junan erityissäännöt" = "Vuokratun junan erityissäännöt";
+
+/* Cost of laying a Tile on a Mountain Hexag */
+"Vuoriheksan rakennuskustannus" = "Vuoriheksan rakennuskustannus";
+
+/* A Public Company floats immediately upon purchase of the Director's share */
+"Yhtiö käynnistyy 1. osakkeella" = "Yhtiö käynnistyy 1. osakkeella";
+
+/* Trains may be traded between Companies */
+"Yhtiöiden väliset junakaupat" = "Yhtiöiden väliset junakaupat";
+
+/* Number of purchased shares required for a Public Company to float */
+"Yhtiön käynnistymiskynnys" = "Yhtiön käynnistymiskynnys";
+
+/* Companies may buy their own stock */
+"Yhtiöt voivat ostaa osakkeitaan" = "Yhtiöt voivat ostaa osakkeitaan";
+
+/* Companies may buy each other's stock */
+"Yhtiöt voivat ostaa toisiaan" = "Yhtiöt voivat ostaa toisiaan";
+
+/* (Public) Companies may buy Private Companies */
+"Yhtiöt voivat ostaa yksityisiä" = "Yhtiöt voivat ostaa yksityisiä";
+
+/* Private Companies are closed down immediately */
+"Yksityiset yhtiöt suljetaan" = "Yksityiset yhtiöt suljetaan";
+
+/* Net loss at which Private Companies may be sold to the Bank Pool (0 to deny) */
+"Yksityisten myyntitappio" = "Yksityisten myyntitappio";
+
+/* Criteria defining the order in which Private Companies operate (def. by number) */
+"Yksityisten toimintajärjestys" = "Yksityisten toimintajärjestys";
+
+/* Private companies are not counted toward the certificate limits */
+"Yksityisten vapaa omistus" = "Yksityisten vapaa omistus";
+
+/* Laying a Yellow Tile for the Company Base does not count as a laid Tile */
+"Ylimääräinen aloituslaatta" = "Ylimääräinen aloituslaatta";
+
+/* Laying a Company's Base token does not count toward Tokens laid on the Turn */
+"Ylimääräinen kotiasema" = "Ylimääräinen kotiasema";
+
+/* Cost of laying a Tile beyond the first in each Turn */
+"Ylimääräisen laatan rakennuskustannus" = "Ylimääräisen laatan rakennuskustannus";
+

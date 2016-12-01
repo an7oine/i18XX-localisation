@@ -1,0 +1,16 @@
+﻿/* 
+  1829.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 21.7.2014.
+  Copyright (c) 2014 Magna cum laude. All rights reserved.
+*/
+
+"Eteläinen pelilauta" = "Southern Board";
+"Pohjoinen pelilauta" = "Northern Board";
+"Laajennusosa MSK-1" = "Expansion MSK-1";
+"Laajennusosa MSK-2" = "Expansion MSK-2";
+"Laajennusosa MSK-5" = "Expansion MSK-5";
+"Laajennusosa MSK-6" = "Expansion MSK-6";
+
+"Maanmittari" = "Survey Party";

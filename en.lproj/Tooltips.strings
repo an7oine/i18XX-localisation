@@ -1,0 +1,138 @@
+﻿/* Third words when opening the app */
+"( Jatka napauttamalla )" = "( Tap to continue )";
+
+/* Starting new matches */
+"Aloita uusi 18XX-peli napauttamalla" = "Tap to start a new 18XX match";
+
+/* Making game configuration */
+"Aseta pelikohtainen lisäosa tai asetus päälle/pois napauttamalla" = "Tap to toggle game option or expansion on/off";
+
+/* Switching game phases */
+"Aseta pelivaihe (ostettu juna) napauttamalla" = "Tap to set game Phase (purchased train type)";
+
+/* Switching game turns */
+"Aseta pelivuoro napauttamalla" = "Tap to set play turn";
+
+/* Tokenable tile tapped and held */
+"Aseta tai poista asemia ja muita pelimerkkejä napauttamalla ja pitämällä heksaa hetki painettuna" = "Tap and hold a hexag to place or remove Tokens";
+
+/* Buildable tile tapped */
+"Aseta tai poista laattoja napauttamalla heksaa" = "Tap a hexag to place or remove Tiles";
+
+/* Placing or removing Company SPI markers */
+"Aseta yhtiön markkina-arvo tai poista se markkinoilta napauttamalla arvolaatikkoa" = "Tap to set a Public Company's market value or remove it from the SPI";
+
+/* Making game configuration */
+"Avaa asetus- tai lisäosaryhmä napauttamalla" = "Tap to open a group of options/expansions";
+
+/* Resuming an existing match */
+"Jatka aiemmin aloitettua peliä napauttamalla" = "Tap to resume an existing match";
+
+/* Finishing game configuration */
+"Jatka pelaajien valintaan napauttamalla" = "Tap to setup players";
+
+/* Checking and issuing dividends */
+"Katso ja toimita osingonjako napauttamalla" = "Tap to view and issue dividends";
+
+/* Checking per-Train Earnings */
+"Katso kunkin junan keräämät tuotot napauttamalla sen reittiä" = "Tap on a route to check invidividual Train earnings";
+
+/* Displaying off-turn earnings */
+"Laske ja näytä minkä tahansa yhtiön tuotot napauttamalla ja pitämällä hetki painettuna" = "Tap and hold to show earnings for any operating Company";
+
+/* Taking further action */
+"Lisää toimintoja napauttamalla" = "Tap for further options";
+
+/* Player selection */
+"Lisää uusi pelaaja napauttamalla" = "Tap to add a Player";
+
+/* Viewing app info/settings screen */
+"Lue lisää 18XX-peleistä, katso sovelluksen tiedot tai muokkaa asetuksia napauttamalla" = "Tap for more information about 18XX games or about the app, or change app settings";
+
+/* Modifying total earnings and route settings */
+"Muokkaa kokonaistuottoa tai reititysasetuksia napauttamalla" = "Tap to modify total earnings or set routing options";
+
+/* Editing SPI in response to Earnings */
+"Muokkaa osakekurssia napauttamalla. Sovellus ehdottaa uutta markkina-arvoa toimitetun osingonjaon perusteella" = "Tap to modify SPI point. The app will suggest a new share value based on the collected Earnings";
+
+/* Player selection */
+"Muokkaa pelaajan nimeä napauttamalla" = "Tap to edit Player name";
+
+/* Displaying current account info */
+"Näytä ja muokkaa vuorossa olevan pelaajan tai yhtiön tietoja napauttamalla" = "Tap to show and edit current Player or Company information";
+
+/* Collapsing and expanding sections */
+"Näytä tai piilota pelejä viimeisimmän siirron mukaan napauttamalla" = "Tap to hide or display matches in groups based on last moves made";
+
+/* Second words when opening the app */
+"Ohjeet näytetään vain kerran, mutta voit palauttaa ne näytettäviksi uudelleen Lisätiedot-näkymästä" = "The tips will only be shown once, but can be restored from within the Information screen";
+
+/* Editing SPI in response to shares sold */
+"Osakekurssia voi myös muokata. Sovellus ehdottaa uutta markkina-arvoa viimeksi myytyjen osakkeiden perusteella." = "You can also modify the share price. The app will suggest a new price point based on shares sold";
+
+/* Buying and selling financial assets */
+"Osta ja myy osakeyhtiön omistamia omia osakkeita, toisten yhtiöiden osakkeita tai yksityisiä yhtiöitä napauttamalla" = "Tap to buy and sell Company-owned other Company shares, Treasury shares, or Private companies";
+
+/* Buying and selling financial assets */
+"Osta ja myy pelaajan omistamia osakkeita napauttamalla" = "Tap to buy and sell player-owned Share certificates";
+
+/* Buying and selling financial assets */
+"Osta ja myy pelaajan omistamia yksityisiä yhtiöitä napauttamalla" = "Tap to buy and sell player-owned Private companies";
+
+/* Closing Earnings display */
+"Palaa pelin perusnäkymään napauttamalla" = "Tap to close and return to the normal game display";
+
+/* Swiping for more match options */
+"Pyyhkäise vasemmalle nähdäksesi lisää vaihtoehtoja" = "Swipe left for further options";
+
+/* Player selection */
+"Sekoita pelaajien järjestys napauttamalla" = "Tap to shuffle the play order";
+
+/* Two finger-pan to switch displays */
+"Siirry näkymien välillä pyyhkäisemällä kahdella sormella" = "Swipe with two fingers to switch tabs";
+
+/* Pan from an edge to switch displays */
+"Siirry näkymien välillä pyyhkäisemällä ruudun reunasta" = "Swipe from screen edge to switch tabs";
+
+/* Player selection */
+"Tallenna ja jatka napauttamalla" = "Tap to save and continue";
+
+/* View portfolio worth */
+"Tarkista osakkeiden arvo" = "Tap to check portfolio worth";
+
+/* Viewing portfolio size */
+"Tarkista osakkeiden lukumäärä" = "Tap to check portfolio size";
+
+/* Viewing player info in Holdings */
+"Tarkista pelaajan osakesalkku ja kokonaistuotot" = "Tap to check player holdings and profits";
+
+/* View current per-OR earnings */
+"Tarkista tuotot operointikierroksella" = "Tap to check earnings per OR";
+
+/* Viewing target info in Holdings */
+"Tarkista yhtiön markkina- ja nimellisarvo, nykyiset tuotot, osakekanta sekä käyttöomaisuus napauttamalla" = "Tap to view par & current share value, current earnings per OR, outstanding equity, and operating assets";
+
+/* First words when opening the app */
+"Tervetuloa! Näissä kuplissa esitetään nopeita vinkkejä sovelluksen käyttöön" = "Welcome! These popovers will display quick tips about the app";
+
+/* Corollary actions toggle announcement */
+"Uutta versiossa 1.8: automaattiset käteistapahtumat" = "New in 1.8: automatic cash transactions";
+
+/* iCloud storage toggle announcement */
+"Uutta versiossa 1.8: iCloud-tallennus" = "New in version 1.8: iCloud storage";
+
+/* Switching game displays */
+"Vaihda näkymää napauttamalla" = "Tap to switch displays";
+
+/* Choosing title sort order */
+"Vaihda pelien järjestystä napauttamalla" = "Tap to change title sort order";
+
+/* Forcing Stations to be run or avoided */
+"Valitse asemia ajettaviksi tai väistettäviksi napauttamalla ja pitämällä heksaa painettuna" = "Tap and hold to pick individual Stations for running into or avoiding";
+
+/* Picking a title for play */
+"Valitse peli napauttamalla" = "Tap to pick a title";
+
+/* Choosing Company assets for running */
+"Valitse yhtiön käyttöomaisuus (junat ja lisenssit) napauttamalla" = "Tap to change Company assets (Trains and Licences)";
+

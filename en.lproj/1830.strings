@@ -1,0 +1,24 @@
+﻿/* 
+  1830.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 21.7.2014.
+  Copyright (c) 2014 Magna cum laude. All rights reserved.
+*/
+
+/* Peliasetukset */
+"Muunnelmia" = "Variants";
+"Wabash Cannonball, heksa D20" = "Wabash Cannonball, hexag D20";
+"Ylimääräiset 20%-osakkeet (Erie ja N&W)" = "Extra 20% certificates (Erie + N&W)";
+"1830 Classic ja 1830+ (Mayfair)" = "1830 Classic and 1830+ (Mayfair)";
+"Lisälaatat (A)" = "Expanded Track Mix A";
+"Lisälaatat (B)" = "Expanded Track Mix B";
+"(C+) Lisälaatat" = "(C+) Additional Tiles";
+"Muokatut säännöt" = "Rule variations";
+"Puolitettu osingonjako" = "Allow split dividends";
+"Sallivat oo-päivityssäännöt" = "Permissible oo Tile upgrades";
+
+/* Virheteksti */
+"Eri painosten muunnelmia ei voi yhdistää" = "Variants of the two Editions are incompatible";
+"Chesapeake Bay Bridge edellyttää lisäosaa Coalfields" = "Chesapeake Bay Bridge calls for inclusion of Coalfields";
+"Eri asetelmia ei voi yhdistää" = "The Scenarios cannot be combined";

@@ -1,0 +1,14 @@
+﻿/* 
+  1860.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 27.4.2015.
+  Copyright (c) 2015 Magna cum laude. All rights reserved.
+*/
+
+"Toinen painos (2010)" = "Second Edition (2010)";
+"Laajennettu pelilauta" = "Extended map";
+"Uudet säännöt vuokratulle junalle" = "New Rules for Insolvency";
+"Salli ajo kahdesti samalla heksalla" = "Permit Trains re-entering hexags";
+
+"Loppupeli" = "Game End";

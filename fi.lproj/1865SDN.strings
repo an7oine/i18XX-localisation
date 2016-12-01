@@ -1,0 +1,17 @@
+﻿/* 
+  1865SDN.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 6.8.2015.
+  Copyright © 2015 Magna cum laude. All rights reserved.
+*/
+
+"Lyhyt peli (ei Korsikaa)" = "Lyhyt peli (ei Korsikaa)";
+"Muunnelma (George Jaycock): junareitit" = "Muunnelma (George Jaycock): junareitit";
+"Laske junareitit (ei liikennekuutioita)" = "Laske junareitit (ei liikennekuutioita)";
+"Rajoitukseton ajo kylien kautta" = "Rajoitukseton ajo kylien kautta";
+"Kohtele kaivoksia tavanomaisina kylinä" = "Kohtele kaivoksia tavanomaisina kylinä";
+
+"Liikenne" = "Liikenne";
+"Liikennekuutiot" = "Liikennekuutiot";
+"%@ / %ld kuutiota" = "%@ / %ld kuutiota";

@@ -1,0 +1,43 @@
+﻿/* 
+  1825.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 21.7.2014.
+  Copyright (c) 2014 Magna cum laude. All rights reserved.
+*/
+
+"Osa 1: Kaakkois-Englanti" = "Osa 1: Kaakkois-Englanti";
+"Osa 2: Keski-Englanti" = "Osa 2: Keski-Englanti";
+"Osa 3: Skotlanti & Northumbria" = "Osa 3: Skotlanti & Northumbria";
+
+"Alueelliset lisäosat" = "Alueelliset lisäosat";
+"Alue R1: Wales" = "Alue R1: Wales";
+"Alue R2: Lounais-Englanti" = "Alue R2: Lounais-Englanti";
+"Alue R3: Pohjois-Norfolk" = "Alue R3: Pohjois-Norfolk";
+"Alue R4: Pohjois-Skotlanti" = "Alue R4: Pohjois-Skotlanti";
+
+"Muut lisäosat" = "Muut lisäosat";
+"Kehitysosa D1" = "Kehitysosa D1";
+"Laajennusosa K1" = "Laajennusosa K1";
+"Laajennusosa K2" = "Laajennusosa K2";
+"Laajennusosa K3" = "Laajennusosa K3";
+"Laajennusosa K5" = "Laajennusosa K5";
+"Laajennusosa K6" = "Laajennusosa K6";
+"Laajennusosa K7" = "Laajennusosa K7";
+
+"Dave Berryn muunnelmia" = "Dave Berryn muunnelmia";
+"DB1: Lisälaattoja" = "DB1: Lisälaattoja";
+"DB2: Korjauksia laudalle 1" = "DB2: Korjauksia laudalle 1";
+"DB3: Korjauksia laudalle 3" = "DB3: Korjauksia laudalle 3";
+
+"Sääntöjä ja lisäyksiä" = "Sääntöjä ja lisäyksiä";
+"Maanmittarit" = "Maanmittarit";
+"Käytä kaikkia lautojen 1-3 laattoja" = "Käytä kaikkia lautojen 1-3 laattoja";
+
+"Peliin on valittava vähintään yksi lauta" = "Peliin on valittava vähintään yksi lauta";
+"Alueet R1-R3 on liitettävä 1-lautaan" = "Alueet R1-R3 on liitettävä 1-lautaan";
+"Alue R4 on liitettävä 3-lautaan" = "Alue R4 on liitettävä 3-lautaan";
+"Laudat 1 & 3 on liitettävä lautaan 2" = "Laudat 1 & 3 on liitettävä lautaan 2";
+"Lisäosat R1, R3 ja K7 edellyttävät lisäosaa K2" = "Lisäosat R1, R3 ja K7 edellyttävät lisäosaa K2";
+"Dave Berryn muunnelma DB2 edellyttää 1-lautaa" = "Dave Berryn muunnelma DB2 edellyttää 1-lautaa";
+"Dave Berryn muunnelma DB3 edellyttää 3-lautaa" = "Dave Berryn muunnelma DB3 edellyttää 3-lautaa";

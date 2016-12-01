@@ -1,0 +1,647 @@
+﻿/* Aseman tuotto */
+"#%ld %@ %ld (aseta)" = "#%1$ld %2$@ %3$ld (aseta)";
+
+/* Aseman tuotto */
+"#%ld (lisää)" = "#%ld (lisää)";
+
+/* Aseman tuotto */
+"%@ %ld (aseta)" = "%1$@ %2$ld (aseta)";
+
+/* Junakaupparivi */
+"%@ (%ld kpl)" = "%1$@ (%2$ld kpl)";
+
+/* Default match title: code and date */
+"%@ - %@" = "%1$@ - %2$@";
+
+/* Laskurin asetus */
+"%@ :" = "%@ :";
+
+/* Pelin valinta-alkion teksti */
+"%@, %d–%d pelaajaa" = "%1$@, %2$d–%3$d pelaajaa";
+
+/* Painike */
+"%@..." = "%@...";
+
+/* Player net worth */
+"%d kierroksen jälkeen" = "%d kierroksen jälkeen";
+
+/* Osakesalkun sisältö */
+"%ld + %ld osakekirjaa" = "%1$ld + %2$ld osakekirjaa";
+
+/* Yksityisten yhtiöiden omistus */
+"%ld kpl : %@" = "%1$ld kpl : %2$@";
+
+/* Osakesalkun sisältö */
+"%ld osakekirjaa" = "%ld osakekirjaa";
+
+/* Match subtitle */
+"%ld siirtoa" = "%ld siirtoa";
+
+/* Tuotonjakorivi */
+"%ld × tuotto" = "%ld × tuotto";
+
+/* Tilasto */
+"%u luokkaa / %ld kt" = "%1$u luokkaa / %2$ld kt";
+
+/* Tilasto */
+"%u peliä / %ld kt" = "%1$u peliä / %2$ld kt";
+
+/* Pelaajan lisäys */
+"(Ei pelaajaa)" = "(Ei pelaajaa)";
+
+/* Tuotonjakorivi */
+"(Kassa)" = "(Kassa)";
+
+/* Pelivuoro */
+"(Muut)" = "(Muut)";
+
+/* Uusi peli -solun teksti */
+"+ Aloita uusi peli" = "+ Aloita uusi peli";
+
+/* Uusi peli -solun teksti */
+"+ Aloita uusi peli napauttamalla" = "+ Aloita uusi peli napauttamalla";
+
+/* Pelaajan lisäys */
+"+ Lisää" = "+ Lisää";
+
+/* Match subtitle */
+"1 siirto" = "1 siirto";
+
+/* Route optimisation time-out @ 60 seconds */
+"1min" = "1min";
+
+/* Route optimisation time-out @ 30 seconds */
+"30s" = "30s";
+
+/* Route optimisation time-out @ 300 seconds */
+"5min" = "5min";
+
+/* Twitter handle */
+"@magna_cl" = "@magna_cl";
+
+/* Version info */
+"Aineisto" = "Aineisto";
+
+/* Painike */
+"Ajoasetukset" = "Ajoasetukset";
+
+/* Painike */
+"Aloita alusta" = "Aloita alusta";
+
+/* App Store name
+   Painike */
+"App Store" = "App Store";
+
+/* Information title */
+"Arvioi" = "Arvioi";
+
+/* Osakesalkun sisältö */
+"Arvo" = "Arvo";
+
+/* Osakesalkun sisältö */
+"Arvonnousu" = "Arvonnousu";
+
+/* Company info */
+"Asemat" = "Asemat";
+
+/* Train income breakdown */
+"Asemien tuotot" = "Asemien tuotot";
+
+/* Otsikko */
+"Aseta nimellisarvo" = "Aseta nimellisarvo";
+
+/* Otsikko */
+"Aseta osakekurssi" = "Aseta osakekurssi";
+
+/* SPI-otsikko */
+"Aseta yhtiön markkina-arvo" = "Aseta yhtiön markkina-arvo";
+
+/* Section header */
+"Asetukset" = "Asetukset";
+
+/* Button */
+"Asetukset..." = "Asetukset...";
+
+/* Asemakohtaiset asetukset */
+"Älä pysähdy asemalla" = "Älä pysähdy asemalla";
+
+/* Website name */
+"Blackwater Station" = "Blackwater Station";
+
+/* Valintateksti
+   Website name */
+"BoardGameGeek" = "BoardGameGeek";
+
+/* Otsikko */
+"Ei osinkoa" = "Ei osinkoa";
+
+/* Painike */
+"Ei pelaajia" = "Ei pelaajia";
+
+/* Otsikko
+   Reittien laskenta */
+"Ei tuottoa" = "Ei tuottoa";
+
+/* Mainosteksti */
+"Hanki lisäosa" = "Hanki lisäosa";
+
+/* Corollary actions alert message */
+"Hanki Osakemarkkinat-lisäosa, jotta voit asettaa automaattiset käteissiirrot päälle" = "Hanki Osakemarkkinat-lisäosa, jotta voit asettaa automaattiset käteissiirrot päälle";
+
+/* Button
+   Painike */
+"Hyväksy" = "Hyväksy";
+
+/* Painike */
+"Jatka" = "Jatka";
+
+/* Pikatoiminto */
+"Jatka peliä" = "Jatka peliä";
+
+/* Pelien lajittelutapa */
+"Järjestä julkaisuvuoden mukaan" = "Järjestä julkaisuvuoden mukaan";
+
+/* Pelien lajittelutapa */
+"Järjestä lisäämisajankohdan mukaan" = "Järjestä lisäämisajankohdan mukaan";
+
+/* Pelien lajittelutapa */
+"Järjestä maan tai alueen mukaan" = "Järjestä maan tai alueen mukaan";
+
+/* Pelien lajittelutapa */
+"Järjestä nimen mukaan" = "Järjestä nimen mukaan";
+
+/* Pelien lajittelutapa */
+"Järjestä pelaajamäärän mukaan" = "Järjestä pelaajamäärän mukaan";
+
+/* Pelien lajittelutapa */
+"Järjestä suunnittelijan mukaan" = "Järjestä suunnittelijan mukaan";
+
+/* Operatiivisen omaisuuden otsikko
+   Yhtiön tiedot */
+"Junat" = "Junat";
+
+/* Otsikko */
+"kaksi viikkoa sitten" = "kaksi viikkoa sitten";
+
+/* Raideleveys */
+"Kapea" = "Kapea";
+
+/* Company info
+   Pelaajan tiedot
+   Player cash in hand */
+"Käteisvarat" = "Käteisvarat";
+
+/* Option to keep matches in iCloud */
+"Käytä iCloudia" = "Käytä iCloudia";
+
+/* Junakauppaotsikko */
+"Käytetyt junat" = "Käytetyt junat";
+
+/* Painike */
+"Käyttömaisuus..." = "Käyttömaisuus...";
+
+/* Yhtiön tiedot */
+"Käyttöomaisuus" = "Käyttöomaisuus";
+
+/* Aseman tuotto */
+"Kiinteä tuotto" = "Kiinteä tuotto";
+
+/* Otsikko */
+"Kiinteät tuotot" = "Kiinteät tuotot";
+
+/* iCloud sign-in alert message */
+"Kirjaudu iCloud-tilille, jotta voit luoda ja jatkaa pelejä" = "Kirjaudu iCloud-tilille, jotta voit luoda ja jatkaa pelejä";
+
+/* iCloud sign-in alert message */
+"Kirjaudu iCloud-tilille, jotta voit pelata" = "Kirjaudu iCloud-tilille, jotta voit pelata";
+
+/* iCloud sign-in alert message */
+"Kirjaudu iCloud-tilille, jotta voit tallentaa ja synkronoida pelit pilvipalvelun avulla" = "Kirjaudu iCloud-tilille, jotta voit tallentaa ja synkronoida pelit pilvipalvelun avulla";
+
+/* iCloud sign-in alert title */
+"Kirjautuminen vaaditaan" = "Kirjautuminen vaaditaan";
+
+/* Osakesalkun sisältö */
+"Koko" = "Koko";
+
+/* Ajoasetukset */
+"Kokonaistuotto" = "Kokonaistuotto";
+
+/* Otsikko */
+"kolme viikkoa sitten" = "kolme viikkoa sitten";
+
+/* Button
+   iOS
+   Painike
+   Paluu virhetilanteesta peliä tallennettaessa */
+"Kumoa" = "Kumoa";
+
+/* Varmistusteksti */
+"Kumoa %ld siirtoa" = "Kumoa %ld siirtoa";
+
+/* Rivitoiminto */
+"Kurkista" = "Kurkista";
+
+/* Osakkeen tiedot */
+"Laske tuotto..." = "Laske tuotto...";
+
+/* Ajoasetukset */
+"Laske uudelleen" = "Laske uudelleen";
+
+/* Reittien laskenta */
+"Lasketaan..." = "Lasketaan...";
+
+/* Operatiivisen omaisuuden otsikko */
+"Laskurit" = "Laskurit";
+
+/* Painike
+   Rivitoiminto */
+"Lähetä..." = "Lähetä...";
+
+/* Taulukon otsikko
+   Yhtiölistan otsikko */
+"Lisää" = "Lisää";
+
+/* Otsikko pelin konfigurointinäkymässä */
+"Lisäosat ja säännöt" = "Lisäosat ja säännöt";
+
+/* Information title */
+"Lisätietoa" = "Lisätietoa";
+
+/* Operatiivisen omaisuuden otsikko
+   Yhtiön tiedot */
+"Lisenssit" = "Lisenssit";
+
+/* Painike */
+"Lopeta" = "Lopeta";
+
+/* SPI-otsikko */
+"Lopeta yhtiön toiminta" = "Lopeta yhtiön toiminta";
+
+/* Osakekauppaotsikko */
+"Markkinat" = "Markkinat";
+
+/* Ajoasetukset */
+"Muokkaa kokonaistuottoa" = "Muokkaa kokonaistuottoa";
+
+/* Syöttöikkunan otsikko */
+"Muokkaa pelaajaa" = "Muokkaa pelaajaa";
+
+/* Rivitoiminto */
+"Muut" = "Muut";
+
+/* Junakauppaotsikko
+   Osakekauppaotsikko */
+"Muut omistajat" = "Muut omistajat";
+
+/* Osakekauppaotsikko */
+"Muut yhtiöt" = "Muut yhtiöt";
+
+/* Osakekauppa */
+"Myy %@" = "Myy %@";
+
+/* Junakauppa */
+"Myy %@ (%@)" = "Myy %1$@ (%2$@)";
+
+/* Siirron kuvaus */
+"Myynti: %@" = "Myynti: %@";
+
+/* Button */
+"Näytä kaikki uudelleen" = "Näytä kaikki uudelleen";
+
+/* Rivitoiminto */
+"Näytä siirrot" = "Näytä siirrot";
+
+/* Otsikko
+   Rivitoiminto */
+"Nimeä uudelleen" = "Nimeä uudelleen";
+
+/* Osakkeen tiedot */
+"Nimellisarvo" = "Nimellisarvo";
+
+/* Asemakohtaiset asetukset */
+"Nollaa asetus" = "Nollaa asetus";
+
+/* Ajoasetukset */
+"Normaali ajo" = "Normaali ajo";
+
+/* Player net worth */
+"Nyt" = "Nyt";
+
+/* Version info */
+"Ohjelmakoodi" = "Ohjelmakoodi";
+
+/* Pelitilanneotsikko */
+"Olettaen, että tuotot pysyvät samoina ja suurin mahdollinen osinko maksetaan" = "Olettaen, että tuotot pysyvät samoina ja suurin mahdollinen osinko maksetaan";
+
+/* Junakauppaotsikko
+   Osakekauppaotsikko
+   Välilehti */
+"Omaisuus" = "Omaisuus";
+
+/* Pelitilanneotsikko */
+"Omaisuus yhteensä" = "Omaisuus yhteensä";
+
+/* Osakekauppaotsikko */
+"Omat osakkeet" = "Omat osakkeet";
+
+/* Round title */
+"OR %ld" = "OR %ld";
+
+/* Osakekauppaotsikko */
+"Osakeanti" = "Osakeanti";
+
+/* Osakkeen tiedot */
+"Osakekanta" = "Osakekanta";
+
+/* Osakkeen tiedot */
+"Osakekurssi" = "Osakekurssi";
+
+/* Välilehti */
+"Osakekurssit" = "Osakekurssit";
+
+/* Corollary actions alert title */
+"Osakemarkkinat-lisäosa vaaditaan" = "Osakemarkkinat-lisäosa vaaditaan";
+
+/* Pelitilanneotsikko */
+"Osakesalkku" = "Osakesalkku";
+
+/* Yhtiölistan otsikko */
+"Osakeyhtiöt" = "Osakeyhtiöt";
+
+/* Painike */
+"Osakkeen arvo..." = "Osakkeen arvo...";
+
+/* Otsikko
+   Tuotonjako-otsikko */
+"Osingonjako" = "Osingonjako";
+
+/* Osakesalkun sisältö */
+"Osinko" = "Osinko";
+
+/* Otsikko */
+"Osinko: %@" = "Osinko: %@";
+
+/* Osakekauppa */
+"Osta %@" = "Osta %@";
+
+/* Junakauppa
+   Osakekauppa */
+"Osta %@ (%@)" = "Osta %1$@ (%2$@)";
+
+/* Siirron kuvaus */
+"Osto: %@" = "Osto: %@";
+
+/* Otsikko */
+"Osuustaulukko" = "Osuustaulukko";
+
+/* Button */
+"Palauta aiemmat ostot" = "Palauta aiemmat ostot";
+
+/* Information title */
+"Palaute" = "Palaute";
+
+/* Painike */
+"PDF..." = "PDF...";
+
+/* Pelitilanneotsikko */
+"Pelaaja" = "Pelaaja";
+
+/* Otsikko */
+"Pelaajat" = "Pelaajat";
+
+/* Otsikko pelin konfigurointinäkymässä */
+"Peli ja suunnittelija" = "Peli ja suunnittelija";
+
+/* Error message when loading game */
+"Peli on luotu käytössä olevaa uudemmalla sovellusversiolla. Hae uusin versio sovelluskaupasta." = "Peli on luotu käytössä olevaa uudemmalla sovellusversiolla. Hae uusin versio sovelluskaupasta.";
+
+/* Warning message when loading game */
+"Peli on luotu käytössä olevaa vanhemmalla sovellusversiolla. Yhteensopivuusongelmia voi ilmetä." = "Peli on luotu käytössä olevaa vanhemmalla sovellusversiolla. Yhteensopivuusongelmia voi ilmetä.";
+
+/* Error message when loading game */
+"Peli on luotu liian vanhalla sovellusversiolla, eikä sitä voida avata tässä versiossa. Aloita peli uudelleen." = "Peli on luotu liian vanhalla sovellusversiolla, eikä sitä voida avata tässä versiossa. Aloita peli uudelleen.";
+
+/* Error message when loading a match */
+"Peliä ei voitu avata" = "Peliä ei voitu avata";
+
+/* Välilehti */
+"Pelilauta" = "Pelilauta";
+
+/* Pelivaiheen asetus */
+"Pelin alku" = "Pelin alku";
+
+/* Painike */
+"Pelin asetukset..." = "Pelin asetukset...";
+
+/* Match title input screen */
+"Pelin nimi" = "Pelin nimi";
+
+/* Peliluettelon otsikko */
+"Pelit" = "Pelit";
+
+/* Välilehti */
+"Pelitilanne" = "Pelitilanne";
+
+/* Painike */
+"Pelivaihe (%@)" = "Pelivaihe (%@)";
+
+/* Painike */
+"Pelivaihe (alku)" = "Pelivaihe (alku)";
+
+/* Painike */
+"Pelivaihe..." = "Pelivaihe...";
+
+/* Otsikko */
+"Pelivuoro" = "Pelivuoro";
+
+/* Painike */
+"Pelivuoro (%@)" = "Pelivuoro (%@)";
+
+/* Painike */
+"Pelivuoro..." = "Pelivuoro...";
+
+/* Painike */
+"Peru %@" = "Peru %@";
+
+/* Varmistusteksti */
+"Peru %ld siirtoa" = "Peru %ld siirtoa";
+
+/* Section header */
+"Pikaohjeet" = "Pikaohjeet";
+
+/* Painike
+   Rivitoiminto
+   Taulukon otsikko
+   Yhtiölistan otsikko */
+"Poista" = "Poista";
+
+/* Raideleveys */
+"Puolikas" = "Puolikas";
+
+/* Otsikko
+   Tuotonjako-otsikko */
+"Puolikas osinko" = "Puolikas osinko";
+
+/* Asemakohtaiset asetukset */
+"Pysähdy asemalla" = "Pysähdy asemalla";
+
+/* Painike */
+"Pysäytä laskenta" = "Pysäytä laskenta";
+
+/* Raideleveys */
+"Raideleveys" = "Raideleveys";
+
+/* Setting title */
+"Reititys" = "Reititys";
+
+/* Otsikko */
+"Ristiriitaiset siirrot" = "Ristiriitaiset siirrot";
+
+/* Round title */
+"SDR" = "SDR";
+
+/* Option to insert automatic cash transactions */
+"Siirrä käteistä automaattisesti" = "Siirrä käteistä automaattisesti";
+
+/* Painike
+   Rivitoiminto */
+"Siirtohistoria..." = "Siirtohistoria...";
+
+/* Section header */
+"Sovellus" = "Sovellus";
+
+/* Choice to merge or close company */
+"Sulje yhtiö" = "Sulje yhtiö";
+
+/* Laattojen raja */
+"Suljettu" = "Suljettu";
+
+/* Pääotsikko */
+"Survey Party" = "Survey Party";
+
+/* Raideleveys */
+"Tavallinen" = "Tavallinen";
+
+/* Section header */
+"Tietoa 18XX-peleistä" = "Tietoa 18XX-peleistä";
+
+/* Tietonäkymän otsikko */
+"Tietoja" = "Tietoja";
+
+/* Built-in advert banner
+   Section header */
+"Tue ohjelman kehitystä" = "Tue ohjelman kehitystä";
+
+/* Pelitilanneotsikko */
+"Tuotot" = "Tuotot";
+
+/* Painike */
+"Tuotot..." = "Tuotot...";
+
+/* Osakkeen tiedot
+   Train income breakdown */
+"Tuotto" = "Tuotto";
+
+/* Reittien laskenta */
+"Tuotto (...): %@" = "Tuotto (...): %@";
+
+/* Reittien laskenta */
+"Tuotto (...): %@ / %ldcc" = "Tuotto (...): %1$@ / %2$ldcc";
+
+/* Reittien laskenta */
+"Tuotto: %@%@" = "Tuotto: %1$@%2$@";
+
+/* Reittien laskenta */
+"Tuotto: %@%@ / %ldcc" = "Tuotto: %1$@%2$@ / %3$ldcc";
+
+/* Ajoasetukset */
+"Tyhjennä asemien määritykset" = "Tyhjennä asemien määritykset";
+
+/* Version info */
+"Työkalut" = "Työkalut";
+
+/* Junakauppaotsikko */
+"Uudet junat" = "Uudet junat";
+
+/* Syöttöikkunan otsikko */
+"Uusi pelaaja" = "Uusi pelaaja";
+
+/* Match subtitle
+   Pelin konfigurointinäkymän otsikko */
+"Uusi peli" = "Uusi peli";
+
+/* Top Shelf section idenfier */
+"Uusimpia pelejä" = "Uusimpia pelejä";
+
+/* Siirron kuvaus */
+"Vaihe: %@" = "Vaihe: %@";
+
+/* Aseman tuotto */
+"Vaihtuva tuotto" = "Vaihtuva tuotto";
+
+/* Valintanäytön painike */
+"Valinnat..." = "Valinnat...";
+
+/* Information title */
+"Versio" = "Versio";
+
+/* Technical info header */
+"Versiotiedot" = "Versiotiedot";
+
+/* Otsikko */
+"viikko sitten" = "viikko sitten";
+
+/* Section footer */
+"Viimeisimmän reittimuutoksen jälkeen - aikarajoitettu tulos osoitetaan tähdellä" = "Viimeisimmän reittimuutoksen jälkeen - aikarajoitettu tulos osoitetaan tähdellä";
+
+/* Pelitilanneotsikko */
+"Viimeisimmän tuoton mukaan operointikierroksella" = "Viimeisimmän tuoton mukaan operointikierroksella";
+
+/* Osakkeen tiedot */
+"Viimeisin tuotto" = "Viimeisin tuotto";
+
+/* Top Shelf section idenfier */
+"Viimeksi pelattu" = "Viimeksi pelattu";
+
+/* Ajoasetukset */
+"Vuokrattu juna" = "Vuokrattu juna";
+
+/* Painike */
+"Vuoro..." = "Vuoro...";
+
+/* Yhtiölistan otsikko */
+"Vuorossa oleva yhtiö" = "Vuorossa oleva yhtiö";
+
+/* Information title */
+"Wiki" = "Wiki";
+
+/* Osakkeen tiedot */
+"Yhdistä tai sulje" = "Yhdistä tai sulje";
+
+/* Header when merging with another Company */
+"Yhdistä yhtiöön" = "Yhdistä yhtiöön";
+
+/* Raideleveys */
+"Yhteiskäyttö" = "Yhteiskäyttö";
+
+/* Osakekauppaotsikko */
+"Yhtiön hallussa" = "Yhtiön hallussa";
+
+/* Osakkeen tiedot */
+"Yhtiön toiminta" = "Yhtiön toiminta";
+
+/* Yhtiölistaus */
+"Yhtiön tuotot" = "Yhtiön tuotot";
+
+/* Osakekauppaotsikko
+   Section header
+   Yhtiölistan otsikko */
+"Yksityiset yhtiöt" = "Yksityiset yhtiöt";
+
+/* Route optimisation time-out off */
+"∞" = "∞";
+
+/* Dummy holder title */
+"● ● ●" = "● ● ●";
+

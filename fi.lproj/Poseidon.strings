@@ -1,0 +1,15 @@
+﻿/*
+  Poseidon.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 24.8.2015.
+  Copyright © 2015 Magna cum laude. All rights reserved.
+*/
+
+"Kahden pelaajan peli" = "Kahden pelaajan peli";
+
+"Maanmittari" = "Löytöretkilaiva";
+"Kohde" = "Uusi kotisatama";
+
+"SP: %@" = "Laiva: %1$@";
+"Kohde: %@" = "Satama: %1$@";

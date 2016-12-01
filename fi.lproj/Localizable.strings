@@ -1,0 +1,29 @@
+﻿/* Valinta asemia sijoitettaessa */
+"%@ / %ld kuutiota" = "%1$@ / %2$ld kuutiota";
+
+/* Bonus token (hexag) */
+"Bonus: %@" = "Bonus: %@";
+
+/* Pelivaihe */
+"code" = "code";
+
+/* Valinta-alkio */
+"Kohde" = "Kohde";
+
+/* Destination marker
+   Valinta-alkio */
+"Kohde: %@" = "Kohde: %@";
+
+/* Traffic-based earnings */
+"Liikenne" = "Liikenne";
+
+/* Valinta-alkio */
+"Maanmittari" = "Maanmittari";
+
+/* Survey Party
+   Valinta-alkio */
+"SP: %@" = "SP: %@";
+
+/* Token placement */
+"Yksityinen yhtiö: %@" = "Yksityinen yhtiö: %@";
+

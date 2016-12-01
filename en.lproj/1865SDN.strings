@@ -1,0 +1,17 @@
+﻿/* 
+  1865SDN.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 6.8.2015.
+  Copyright © 2015 Magna cum laude. All rights reserved.
+*/
+
+"Lyhyt peli (ei Korsikaa)" = "Short Game (no Corsica)";
+"Muunnelma (George Jaycock): junareitit" = "Variant (by George Jaycock): Routes";
+"Laske junareitit (ei liikennekuutioita)" = "Standard Earnings (no traffic cubes)";
+"Rajoitukseton ajo kylien kautta" = "Run unlimited Villages";
+"Kohtele kaivoksia tavanomaisina kylinä" = "Upgrade Mines with Villages";
+
+"Liikenne" = "Traffic";
+"Liikennekuutiot" = "Traffic Cubes";
+"%@ / %ld kuutiota" = "%@ / %ld Cubes";

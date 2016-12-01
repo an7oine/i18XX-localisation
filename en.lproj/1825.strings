@@ -1,0 +1,43 @@
+﻿/* 
+  1825.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 21.7.2014.
+  Copyright (c) 2014 Magna cum laude. All rights reserved.
+*/
+
+"Osa 1: Kaakkois-Englanti" = "Unit 1: South Eastern England";
+"Osa 2: Keski-Englanti" = "Unit 2: The Midlands";
+"Osa 3: Skotlanti & Northumbria" = "Unit 3: Scotland & Northumbria";
+
+"Alueelliset lisäosat" = "Regional Kits";
+"Alue R1: Wales" = "Region R1: Wales";
+"Alue R2: Lounais-Englanti" = "Region R2: South Western England";
+"Alue R3: Pohjois-Norfolk" = "Region R3: North Norfolk";
+"Alue R4: Pohjois-Skotlanti" = "Region R4: Northern Scotland";
+
+"Muut lisäosat" = "Other Expansions";
+"Kehitysosa D1" = "Development Kit D1";
+"Laajennusosa K1" = "Expansion Kit K1";
+"Laajennusosa K2" = "Expansion Kit K2";
+"Laajennusosa K3" = "Expansion Kit K3";
+"Laajennusosa K5" = "Expansion Kit K5";
+"Laajennusosa K6" = "Expansion Kit K6";
+"Laajennusosa K7" = "Expansion Kit K7";
+
+"Dave Berryn muunnelmia" = "Dave Berry's variants";
+"DB1: Lisälaattoja" = "DB1: Additional Tiles";
+"DB2: Korjauksia laudalle 1" = "DB2: Board changes for Unit 1";
+"DB3: Korjauksia laudalle 3" = "DB3: Board changes for Unit 3";
+
+"Sääntöjä ja lisäyksiä" = "Rules and additions";
+"Maanmittarit" = "Survey Parties";
+"Käytä kaikkia lautojen 1-3 laattoja" = "Use all Tiles from Units 1-3";
+
+"Peliin on valittava vähintään yksi lauta" = "One or more Units must be selected";
+"Alueet R1-R3 on liitettävä 1-lautaan" = "Regional Kits R1-R3 connect to Unit 1";
+"Alue R4 on liitettävä 3-lautaan" = "Regional Kit R4 connects to Unit 3";
+"Laudat 1 & 3 on liitettävä lautaan 2" = "Units 1 & 3 interconnect via Unit 2";
+"Lisäosat R1, R3 ja K7 edellyttävät lisäosaa K2" = "Expansion K2 is required when playing with R1, R3, or K7";
+"Dave Berryn muunnelma DB2 edellyttää 1-lautaa" = "Dave Berry's DB2 variant requires Unit 1";
+"Dave Berryn muunnelma DB3 edellyttää 3-lautaa" = "Dave Berry's DB3 variant requires Unit 3";

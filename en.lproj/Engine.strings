@@ -1,0 +1,187 @@
+﻿/* Siirron tyyppi */
+"%@ (%@): @ %d" = "%1$@ (%2$@): @ %3$d";
+
+/* Siirron tyyppi */
+"%@, heksa %@" = "%1$@, hexag %2$@";
+
+/* Player count */
+"%d–%d pelaajaa" = "%1$d–%2$d players";
+
+/* Fixed income turn */
+"(muut)" = "(others)";
+
+/* Laatan väri */
+"(virheellinen)" = "(invalid)";
+
+/* Siirron tyyppi */
+"arvo (%@): %@" = "price (%1$@): %2$@";
+
+/* Siirron tyyppi */
+"asema (%@), heksa %@" = "token (%1$@), hexag %2$@";
+
+/* Säännön tila */
+"Ei" = "No";
+
+/* Virheteksti peliä ladattaessa */
+"Enintään %ld pelaajaa" = "Maximum of %ld players";
+
+/* Laatan väri
+   Tile colour */
+"Harmaa" = "Grey";
+
+/* Osakkeiden omistaja merkintähetkellä */
+"IPO" = "IPO";
+
+/* Siirron tyyppi */
+"juna (%@): %@ #%ld" = "train (%1$@): %2$@ #%3$ld";
+
+/* Track gauge */
+"Kaksoisraideväli" = "Dual Gauge";
+
+/* Track gauge */
+"Kapea raideväli" = "Narrow Gauge";
+
+/* Tile kind */
+"Kaupunki" = "City";
+
+/* Tile kind */
+"Kaupunki x 2" = "City x 2";
+
+/* Tile kind */
+"Kaupunki x 3" = "City x 3";
+
+/* Siirron tyyppi */
+"käteinen (%@): %c %@" = "cash (%1$@): %2$c %3$@";
+
+/* Laatan väri
+   Tile colour */
+"Keltainen" = "Yellow";
+
+/* Laatan väri */
+"Keltainen/vihreä" = "Yellow/green";
+
+/* Corrected revenue */
+"Korjaus" = "Corrected";
+
+/* Tile kind */
+"Kylä" = "Village";
+
+/* Tile kind */
+"Kylä x 2" = "Village x 2";
+
+/* Tile kind */
+"Kylä x 3" = "Village x 3";
+
+/* Säännön tila */
+"Kyllä" = "Yes";
+
+/* Siirron tyyppi */
+"laatta #%@, heksa %@ (%@)" = "tile #%1$@, hexag %2$@ (%3$@)";
+
+/* Laatan väri */
+"Läpinäkyvä" = "Clear";
+
+/* Siirron tyyppi */
+"lisenssi (%@): %@" = "licence (%1$@): %2$@";
+
+/* Siirron tyyppi */
+"luovutus (%@): %@" = "merge (%1$@): %2$@";
+
+/* Osakkeiden omistaja merkintähetkellä */
+"Markkinat" = "Pool";
+
+/* Laatan väri */
+"Musta" = "Black";
+
+/* Tile colour */
+"Muu väri" = "Other colour";
+
+/* Track gauge */
+"Normaali raideväli" = "Regular Gauge";
+
+/* Virheteksti */
+"Ohjelmavirhe: tiedosto puuttuu" = "Program error: file missing";
+
+/* Virheteksti */
+"Ohjelmavirhe: viallinen tiedosto" = "Program error: invalid file";
+
+/* Siirron tyyppi */
+"osake (%@): %@" = "certificate (%1$@): %2$@";
+
+/* Siirron tyyppi */
+"osakekanta (%@): %@ / %ld" = "equity (%1$@): %2$@ / %3$ld";
+
+/* Laatan väri */
+"Pinkki" = "Pink";
+
+/* Laatan väri */
+"Punainen" = "Red";
+
+/* Laatan väri
+   Tile colour */
+"Punaruskea" = "Russet";
+
+/* Laatan väri */
+"Punaruskea/harmaa" = "Russet/grey";
+
+/* Laatan väri */
+"Ruskea" = "Brown";
+
+/* Laatan väri */
+"Ruskea/punaruskea" = "Brown/russet";
+
+/* Laatan väri */
+"Sininen" = "Aqua";
+
+/* Siirron tyyppi */
+"sulkeminen (%@)" = "close (%@)";
+
+/* Otsikkoteksti */
+"Syötä kauppahinta" = "set trade amount";
+
+/* Siirron tyyppi */
+"tuotto (%@): %@" = "earn (%1$@): %2$@";
+
+/* Laatan väri */
+"Tyhjä" = "Buff";
+
+/* Tile kind */
+"Tyhjä rata" = "Plain track";
+
+/* Laatan väri */
+"Tyhjä/keltainen" = "Buff/yellow";
+
+/* Laatan väri */
+"Vaaleansininen" = "Light blue";
+
+/* Siirron tyyppi */
+"vaihe %@" = "phase %@";
+
+/* Virheteksti peliä ladattaessa */
+"Vähintään %ld pelaajaa" = "Minimum of %ld players";
+
+/* Laatan väri
+   Tile colour */
+"Vihreä" = "Green";
+
+/* Laatan väri */
+"Vihreä/punaruskea" = "Green/russet";
+
+/* Laatan väri */
+"Violetti" = "Purple";
+
+/* Action summary */
+"vuoro (OR %d.%d): %@" = "turn (OR %1$d.%2$d): %3$@";
+
+/* Action summary */
+"vuoro (SDR %d): %@" = "turn (SDR %1$d): %2$@";
+
+/* Osakkeiden omistaja merkintähetkellä */
+"Yhtiö" = "Treasury";
+
+
+/* Redundant strings:
+
+"%@ (%@): %d" = "%1$@ (%2$@): %3$d";
+
+ */

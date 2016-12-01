@@ -1,0 +1,69 @@
+﻿/* Virheteksti */
+"Asema ei ole yhteydessä rataverkkoon" = "Asema ei ole yhteydessä rataverkkoon";
+
+/* Virheteksti */
+"Asema on jo täynnä" = "Asema on jo täynnä";
+
+/* Virheteksti */
+"Asema on varattu toiselle yhtiölle" = "Asema on varattu toiselle yhtiölle";
+
+/* Virheteksti */
+"Aseman arvo ei nouse" = "Aseman arvo ei nouse";
+
+/* Virheteksti */
+"Ei ajokelpoista reittiä laatalle" = "Ei ajokelpoista reittiä laatalle";
+
+/* Virheteksti (1829 Mainline) */
+"Ei ratayhteyttä" = "Ei ratayhteyttä";
+
+/* Virheteksti */
+"Ei ratayhteyttä asemalle" = "Ei ratayhteyttä asemalle";
+
+/* Virheteksti */
+"Ei ratayhteyttä laatalle" = "Ei ratayhteyttä laatalle";
+
+/* Virheteksti */
+"Heksa on varattu toiselle yhtiölle" = "Heksa on varattu toiselle yhtiölle";
+
+/* Virheteksti (1829 Mainline) */
+"Jyrkkä mutka" = "Jyrkkä mutka";
+
+/* Virheteksti (1829 Mainline) */
+"Kaikkien heksojen on oltava tyhjiä" = "Kaikkien heksojen on oltava tyhjiä";
+
+/* Virheteksti */
+"Kassa ei riitä" = "Kassa ei riitä";
+
+/* Virheteksti (1829 Mainline) */
+"Laatan vaihto päättää laattojen asettelun" = "Laatan vaihto päättää laattojen asettelun";
+
+/* Virheteksti */
+"Olemassaoleva asema puuttuu" = "Olemassaoleva asema puuttuu";
+
+/* Virheteksti */
+"Olemassaoleva yhteys puuttuu" = "Olemassaoleva yhteys puuttuu";
+
+/* Virheteksti */
+"Suljettu ratayhteys" = "Suljettu ratayhteys";
+
+/* Virheteksti */
+"Väärä laatta" = "Väärä laatta";
+
+/* Virheteksti (1829 Mainline) */
+"Väärä ratalinja" = "Väärä ratalinja";
+
+/* Virheteksti */
+"Vääränvärinen laatta" = "Vääränvärinen laatta";
+
+/* Virheteksti */
+"Viereinen laatta estää rakentamisen" = "Viereinen laatta estää rakentamisen";
+
+/* Virheteksti */
+"Virheellinen aseman sijoitus" = "Virheellinen aseman sijoitus";
+
+/* Virheteksti (1829 Mainline) */
+"Yhteys isolle asemalle" = "Yhteys isolle asemalle";
+
+/* Virheteksti */
+"Yhtiöllä on jo asema samalla laatalla" = "Yhtiöllä on jo asema samalla laatalla";
+

@@ -1,0 +1,219 @@
+﻿
+/* Class = "NSMenuItem"; title = "Muokkaa työkalupalkkia…"; ObjectID = "1UK-8n-QPP"; */
+"1UK-8n-QPP.title" = "Muokkaa työkalupalkkia…";
+
+/* Class = "NSMenuItem"; title = "Gauge"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Gauge";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Muuta laattojen kokoa näytöllä"; ObjectID = "3jr-m4-EWM"; */
+"3jr-m4-EWM.ibShadowedToolTip" = "Muuta laattojen kokoa näytöllä";
+
+/* Class = "NSMenuItem"; title = "Siirry koko näytön tilaan"; ObjectID = "4J7-dP-txa"; */
+"4J7-dP-txa.title" = "Siirry koko näytön tilaan";
+
+/* Class = "NSMenuItem"; title = "Lopeta Gauge"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Lopeta Gauge";
+
+/* Class = "NSMenuItem"; title = "Muokkaa"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "Muokkaa";
+
+/* Class = "NSMenuItem"; title = "Tietoja: Gauge"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Tietoja: Gauge";
+
+/* Class = "NSMenuItem"; title = "Tee sittenkin"; ObjectID = "6dh-zS-Vam"; */
+"6dh-zS-Vam.title" = "Tee sittenkin";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Asetukset…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Asetukset…";
+
+/* Class = "NSMenuItem"; title = "Monista…"; ObjectID = "Bw7-FT-i3A"; */
+"Bw7-FT-i3A.title" = "Monista…";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "Ckk-yw-fiv"; */
+"Ckk-yw-fiv.title" = "Window";
+
+/* Class = "NSToolbarItem"; label = "Laatan asento"; ObjectID = "DJq-nU-UHW"; */
+"DJq-nU-UHW.label" = "Laatan asento";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Laatan asento"; ObjectID = "DJq-nU-UHW"; */
+"DJq-nU-UHW.paletteLabel" = "Laatan asento";
+
+/* Class = "NSMenuItem"; title = "Sulje"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "Sulje";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "#Koodi,Väri(Asennot) Kaupunki(Arvo)Asemat,... Alkupiste[Raideväli]Loppupiste \"Teksti\""; ObjectID = "De9-bE-UOK"; */
+"De9-bE-UOK.ibShadowedToolTip" = "#Koodi,Väri(Asennot) Kaupunki(Arvo)Asemat,... Alkupiste[Raideväli]Loppupiste \"Teksti\"";
+
+/* Class = "NSMenu"; title = "Ohje"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Ohje";
+
+/* Class = "NSMenuItem"; title = "Gauge-ohje"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Gauge-ohje";
+
+/* Class = "NSMenuItem"; title = "Näytä"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "Näytä";
+
+/* Class = "NSMenu"; title = "Export"; ObjectID = "HkT-67-4LO"; */
+"HkT-67-4LO.title" = "Export";
+
+/* Class = "NSMenu"; title = "Näytä"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "Näytä";
+
+/* Class = "NSMenuItem"; title = "Avaa…"; ObjectID = "IAo-SY-fd9"; */
+"IAo-SY-fd9.title" = "Avaa…";
+
+/* Class = "NSMenu"; title = "18XX-peli"; ObjectID = "Joy-it-Gwp"; */
+"Joy-it-Gwp.title" = "18XX-peli";
+
+/* Class = "NSMenuItem"; title = "Palauta"; ObjectID = "KaW-ft-85H"; */
+"KaW-ft-85H.title" = "Palauta";
+
+/* Class = "NSMenuItem"; title = "Näytä kaikki"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Näytä kaikki";
+
+/* Class = "NSMenuItem"; title = "Tuo kaikki eteen"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Tuo kaikki eteen";
+
+/* Class = "NSTextFieldCell"; title = "Määritelmä"; ObjectID = "LZ2-hE-oUM"; */
+"LZ2-hE-oUM.title" = "Määritelmä";
+
+/* Class = "NSButtonCell"; title = "Vaaka"; ObjectID = "Nwa-9t-lGf"; */
+"Nwa-9t-lGf.title" = "Vaaka";
+
+/* Class = "NSMenuItem"; title = "Pienennä"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Pienennä";
+
+/* Class = "NSMenuItem"; title = "Kätke Gauge"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Kätke Gauge";
+
+/* Class = "NSMenuItem"; title = "Zoomaa"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "Zoomaa";
+
+/* Class = "NSMenuItem"; title = "Valitse kaikki"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "Valitse kaikki";
+
+/* Class = "NSMenuItem"; title = "18XX-peli"; ObjectID = "STx-L6-LhB"; */
+"STx-L6-LhB.title" = "18XX-peli";
+
+/* Class = "NSMenu"; title = "Ikkuna"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Ikkuna";
+
+/* Class = "NSTokenFieldCell"; placeholderString = "Etsi"; ObjectID = "Trm-Xj-jfk"; */
+"Trm-Xj-jfk.placeholderString" = "Etsi";
+
+/* Class = "NSToolbarItem"; label = "Laatan koko"; ObjectID = "VHv-bW-luR"; */
+"VHv-bW-luR.label" = "Laatan koko";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Laatan koko"; ObjectID = "VHv-bW-luR"; */
+"VHv-bW-luR.paletteLabel" = "Laatan koko";
+
+/* Class = "NSMenuItem"; title = "Kätke muut"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Kätke muut";
+
+/* Class = "NSMenu"; title = "Muokkaa"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "Muokkaa";
+
+/* Class = "NSMenuItem"; title = "Uusi"; ObjectID = "Was-JA-tGl"; */
+"Was-JA-tGl.title" = "Uusi";
+
+/* Class = "NSMenuItem"; title = "Sijoita ja sovita tyyli"; ObjectID = "WeT-3V-zwk"; */
+"WeT-3V-zwk.title" = "Sijoita ja sovita tyyli";
+
+/* Class = "NSMenuItem"; title = "Kopioi PDF leikepöydälle"; ObjectID = "ZFf-c2-TcG"; */
+"ZFf-c2-TcG.title" = "Kopioi PDF leikepöydälle";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Etsi"; ObjectID = "aJA-RF-1jB"; */
+"aJA-RF-1jB.ibShadowedIsNilPlaceholder" = "Etsi";
+
+/* Class = "NSMenuItem"; title = "Tulosta…"; ObjectID = "aTl-1u-JFS"; */
+"aTl-1u-JFS.title" = "Tulosta…";
+
+/* Class = "NSMenuItem"; title = "Ikkuna"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Ikkuna";
+
+/* Class = "NSMenu"; title = "Arkisto"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "Arkisto";
+
+/* Class = "NSTokenField"; ibShadowedToolTip = "Suodata: väri, tyyppi, raideväli, x(yhteyksien lukumäärä), @(aseman arvo), #koodi, #alku-#loppu, \"teksti\""; ObjectID = "dEt-I1-I5E"; */
+"dEt-I1-I5E.ibShadowedToolTip" = "Suodata: väri, tyyppi, raideväli, x(yhteyksien lukumäärä), @(aseman arvo), #koodi, #alku-#loppu, \"teksti\"";
+
+/* Class = "NSMenuItem"; title = "Arkisto"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "Arkisto";
+
+/* Class = "NSMenuItem"; title = "Peru"; ObjectID = "dRJ-4n-Yzg"; */
+"dRJ-4n-Yzg.title" = "Peru";
+
+/* Class = "NSButtonCell"; title = "Lisää"; ObjectID = "g5y-uP-913"; */
+"g5y-uP-913.title" = "Lisää";
+
+/* Class = "NSMenuItem"; title = "Sijoita"; ObjectID = "gVA-U4-sdL"; */
+"gVA-U4-sdL.title" = "Sijoita";
+
+/* Class = "NSMenuItem"; title = "Kopioi PNG leikepöydälle"; ObjectID = "hOs-Cp-FW9"; */
+"hOs-Cp-FW9.title" = "Kopioi PNG leikepöydälle";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Muuta laatan asentoa näytöllä"; ObjectID = "heB-Jc-3of"; */
+"heB-Jc-3of.ibShadowedToolTip" = "Muuta laatan asentoa näytöllä";
+
+/* Class = "NSMenuItem"; title = "Tallenna PDF-muodossa..."; ObjectID = "iBe-40-yin"; */
+"iBe-40-yin.title" = "Tallenna PDF-muodossa...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Lisää uusi laattatyyppi"; ObjectID = "j1m-se-MJL"; */
+"j1m-se-MJL.ibShadowedToolTip" = "Lisää uusi laattatyyppi";
+
+/* Class = "NSToolbarItem"; label = "Laatan tyyppi"; ObjectID = "jEJ-9s-hWo"; */
+"jEJ-9s-hWo.label" = "Laatan tyyppi";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Laatan tyyppi"; ObjectID = "jEJ-9s-hWo"; */
+"jEJ-9s-hWo.paletteLabel" = "Laatan tyyppi";
+
+/* Class = "NSMenuItem"; title = "Näytä sivupalkki"; ObjectID = "kIP-vf-haE"; */
+"kIP-vf-haE.title" = "Näytä sivupalkki";
+
+/* Class = "NSMenu"; title = "Avaa äskeinen"; ObjectID = "oas-Oc-fiZ"; */
+"oas-Oc-fiZ.title" = "Avaa äskeinen";
+
+/* Class = "NSMenuItem"; title = "Poista"; ObjectID = "pa3-QI-u2k"; */
+"pa3-QI-u2k.title" = "Poista";
+
+/* Class = "NSMenuItem"; title = "Tallenna…"; ObjectID = "pxx-59-PXV"; */
+"pxx-59-PXV.title" = "Tallenna…";
+
+/* Class = "NSMenuItem"; title = "Arkin määritys…"; ObjectID = "qIS-W8-SiK"; */
+"qIS-W8-SiK.title" = "Arkin määritys…";
+
+/* Class = "NSToolbarItem"; label = "Lisää"; ObjectID = "qa1-ns-EFn"; */
+"qa1-ns-EFn.label" = "Lisää";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Lisää"; ObjectID = "qa1-ns-EFn"; */
+"qa1-ns-EFn.paletteLabel" = "Lisää";
+
+/* Class = "NSMenuItem"; title = "Näytä työkalupalkki"; ObjectID = "snW-S8-Cw5"; */
+"snW-S8-Cw5.title" = "Näytä työkalupalkki";
+
+/* Class = "NSMenuItem"; title = "Avaa äskeinen"; ObjectID = "tXI-mr-wws"; */
+"tXI-mr-wws.title" = "Avaa äskeinen";
+
+/* Class = "NSMenu"; title = "Gauge"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Gauge";
+
+/* Class = "NSMenuItem"; title = "Leikkaa"; ObjectID = "uRl-iY-unG"; */
+"uRl-iY-unG.title" = "Leikkaa";
+
+/* Class = "NSMenuItem"; title = "Vienti"; ObjectID = "uSB-eT-1fJ"; */
+"uSB-eT-1fJ.title" = "Vienti";
+
+/* Class = "NSMenuItem"; title = "Tyhjennä valikko"; ObjectID = "vNY-rz-j42"; */
+"vNY-rz-j42.title" = "Tyhjennä valikko";
+
+/* Class = "NSMenuItem"; title = "Oletuslaatat"; ObjectID = "wBn-M6-pHr"; */
+"wBn-M6-pHr.title" = "Oletuslaatat";
+
+/* Class = "NSMenuItem"; title = "Ohje"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Ohje";
+
+/* Class = "NSMenuItem"; title = "Kopioi"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "Kopioi";

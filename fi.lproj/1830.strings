@@ -1,0 +1,24 @@
+﻿/* 
+  1830.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 21.7.2014.
+  Copyright (c) 2014 Magna cum laude. All rights reserved.
+*/
+
+/* Peliasetukset */
+"Muunnelmia" = "Muunnelmia";
+"Wabash Cannonball, heksa D20" = "Wabash Cannonball, heksa D20";
+"Ylimääräiset 20%-osakkeet (Erie ja N&W)" = "Ylimääräiset 20%-osakkeet (Erie ja N&W)";
+"1830 Classic ja 1830+ (Mayfair)" = "1830 Classic ja 1830+ (Mayfair)";
+"Lisälaatat (A)" = "Lisälaatat (A)";
+"Lisälaatat (B)" = "Lisälaatat (B)";
+"(C+) Lisälaatat" = "(C+) Lisälaatat";
+"Muokatut säännöt" = "Muokatut säännöt";
+"Puolitettu osingonjako" = "Puolitettu osingonjako";
+"Sallivat oo-päivityssäännöt" = "Sallivat oo-päivityssäännöt";
+
+/* Virheteksti */
+"Eri painosten muunnelmia ei voi yhdistää" = "Eri painosten muunnelmia ei voi yhdistää";
+"Chesapeake Bay Bridge edellyttää lisäosaa Coalfields" = "Chesapeake Bay Bridge edellyttää lisäosaa Coalfields";
+"Eri asetelmia ei voi yhdistää" = "Eri asetelmia ei voi yhdistää";

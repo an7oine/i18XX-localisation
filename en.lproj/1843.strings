@@ -1,0 +1,15 @@
+﻿/* 
+  1843.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 30.8.2015.
+  Copyright (c) 2015 Magna cum laude. All rights reserved.
+*/
+
+"Vihreä" = "Green";
+"Sininen" = "Blue";
+"Ruskea" = "Brown";
+"Punainen" = "Red";
+"Harmaa" = "Grey";
+
+"Satamat" = "Port Tokens";

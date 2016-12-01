@@ -1,0 +1,138 @@
+﻿/* Third words when opening the app */
+"( Jatka napauttamalla )" = "( Jatka napauttamalla )";
+
+/* Starting new matches */
+"Aloita uusi 18XX-peli napauttamalla" = "Aloita uusi 18XX-peli napauttamalla";
+
+/* Making game configuration */
+"Aseta pelikohtainen lisäosa tai asetus päälle/pois napauttamalla" = "Aseta pelikohtainen lisäosa tai asetus päälle/pois napauttamalla";
+
+/* Switching game phases */
+"Aseta pelivaihe (ostettu juna) napauttamalla" = "Aseta pelivaihe (ostettu juna) napauttamalla";
+
+/* Switching game turns */
+"Aseta pelivuoro napauttamalla" = "Aseta pelivuoro napauttamalla";
+
+/* Tokenable tile tapped and held */
+"Aseta tai poista asemia ja muita pelimerkkejä napauttamalla ja pitämällä heksaa hetki painettuna" = "Aseta tai poista asemia ja muita pelimerkkejä napauttamalla ja pitämällä heksaa hetki painettuna";
+
+/* Buildable tile tapped */
+"Aseta tai poista laattoja napauttamalla heksaa" = "Aseta tai poista laattoja napauttamalla heksaa";
+
+/* Placing or removing Company SPI markers */
+"Aseta yhtiön markkina-arvo tai poista se markkinoilta napauttamalla arvolaatikkoa" = "Aseta yhtiön markkina-arvo tai poista se markkinoilta napauttamalla arvolaatikkoa";
+
+/* Making game configuration */
+"Avaa asetus- tai lisäosaryhmä napauttamalla" = "Avaa asetus- tai lisäosaryhmä napauttamalla";
+
+/* Resuming an existing match */
+"Jatka aiemmin aloitettua peliä napauttamalla" = "Jatka aiemmin aloitettua peliä napauttamalla";
+
+/* Finishing game configuration */
+"Jatka pelaajien valintaan napauttamalla" = "Jatka pelaajien valintaan napauttamalla";
+
+/* Checking and issuing dividends */
+"Katso ja toimita osingonjako napauttamalla" = "Katso ja toimita osingonjako napauttamalla";
+
+/* Checking per-Train Earnings */
+"Katso kunkin junan keräämät tuotot napauttamalla sen reittiä" = "Katso kunkin junan keräämät tuotot napauttamalla sen reittiä";
+
+/* Displaying off-turn earnings */
+"Laske ja näytä minkä tahansa yhtiön tuotot napauttamalla ja pitämällä hetki painettuna" = "Laske ja näytä minkä tahansa yhtiön tuotot napauttamalla ja pitämällä hetki painettuna";
+
+/* Taking further action */
+"Lisää toimintoja napauttamalla" = "Lisää toimintoja napauttamalla";
+
+/* Player selection */
+"Lisää uusi pelaaja napauttamalla" = "Lisää uusi pelaaja napauttamalla";
+
+/* Viewing app info/settings screen */
+"Lue lisää 18XX-peleistä, katso sovelluksen tiedot tai muokkaa asetuksia napauttamalla" = "Lue lisää 18XX-peleistä, katso sovelluksen tiedot tai muokkaa asetuksia napauttamalla";
+
+/* Modifying total earnings and route settings */
+"Muokkaa kokonaistuottoa tai reititysasetuksia napauttamalla" = "Muokkaa kokonaistuottoa tai reititysasetuksia napauttamalla";
+
+/* Editing SPI in response to Earnings */
+"Muokkaa osakekurssia napauttamalla. Sovellus ehdottaa uutta markkina-arvoa toimitetun osingonjaon perusteella" = "Muokkaa osakekurssia napauttamalla. Sovellus ehdottaa uutta markkina-arvoa toimitetun osingonjaon perusteella";
+
+/* Player selection */
+"Muokkaa pelaajan nimeä napauttamalla" = "Muokkaa pelaajan nimeä napauttamalla";
+
+/* Displaying current account info */
+"Näytä ja muokkaa vuorossa olevan pelaajan tai yhtiön tietoja napauttamalla" = "Näytä ja muokkaa vuorossa olevan pelaajan tai yhtiön tietoja napauttamalla";
+
+/* Collapsing and expanding sections */
+"Näytä tai piilota pelejä viimeisimmän siirron mukaan napauttamalla" = "Näytä tai piilota pelejä viimeisimmän siirron mukaan napauttamalla";
+
+/* Second words when opening the app */
+"Ohjeet näytetään vain kerran, mutta voit palauttaa ne näytettäviksi uudelleen Lisätiedot-näkymästä" = "Ohjeet näytetään vain kerran, mutta voit palauttaa ne näytettäviksi uudelleen Lisätiedot-näkymästä";
+
+/* Editing SPI in response to shares sold */
+"Osakekurssia voi myös muokata. Sovellus ehdottaa uutta markkina-arvoa viimeksi myytyjen osakkeiden perusteella." = "Osakekurssia voi myös muokata. Sovellus ehdottaa uutta markkina-arvoa viimeksi myytyjen osakkeiden perusteella.";
+
+/* Buying and selling financial assets */
+"Osta ja myy osakeyhtiön omistamia omia osakkeita, toisten yhtiöiden osakkeita tai yksityisiä yhtiöitä napauttamalla" = "Osta ja myy osakeyhtiön omistamia omia osakkeita, toisten yhtiöiden osakkeita tai yksityisiä yhtiöitä napauttamalla";
+
+/* Buying and selling financial assets */
+"Osta ja myy pelaajan omistamia osakkeita napauttamalla" = "Osta ja myy pelaajan omistamia osakkeita napauttamalla";
+
+/* Buying and selling financial assets */
+"Osta ja myy pelaajan omistamia yksityisiä yhtiöitä napauttamalla" = "Osta ja myy pelaajan omistamia yksityisiä yhtiöitä napauttamalla";
+
+/* Closing Earnings display */
+"Palaa pelin perusnäkymään napauttamalla" = "Palaa pelin perusnäkymään napauttamalla";
+
+/* Swiping for more match options */
+"Pyyhkäise vasemmalle nähdäksesi lisää vaihtoehtoja" = "Pyyhkäise vasemmalle nähdäksesi lisää vaihtoehtoja";
+
+/* Player selection */
+"Sekoita pelaajien järjestys napauttamalla" = "Sekoita pelaajien järjestys napauttamalla";
+
+/* Two finger-pan to switch displays */
+"Siirry näkymien välillä pyyhkäisemällä kahdella sormella" = "Siirry näkymien välillä pyyhkäisemällä kahdella sormella";
+
+/* Pan from an edge to switch displays */
+"Siirry näkymien välillä pyyhkäisemällä ruudun reunasta" = "Siirry näkymien välillä pyyhkäisemällä ruudun reunasta";
+
+/* Player selection */
+"Tallenna ja jatka napauttamalla" = "Tallenna ja jatka napauttamalla";
+
+/* View portfolio worth */
+"Tarkista osakkeiden arvo" = "Tarkista osakkeiden arvo";
+
+/* Viewing portfolio size */
+"Tarkista osakkeiden lukumäärä" = "Tarkista osakkeiden lukumäärä";
+
+/* Viewing player info in Holdings */
+"Tarkista pelaajan osakesalkku ja kokonaistuotot" = "Tarkista pelaajan osakesalkku ja kokonaistuotot";
+
+/* View current per-OR earnings */
+"Tarkista tuotot operointikierroksella" = "Tarkista tuotot operointikierroksella";
+
+/* Viewing target info in Holdings */
+"Tarkista yhtiön markkina- ja nimellisarvo, nykyiset tuotot, osakekanta sekä käyttöomaisuus napauttamalla" = "Tarkista yhtiön markkina- ja nimellisarvo, nykyiset tuotot, osakekanta sekä käyttöomaisuus napauttamalla";
+
+/* First words when opening the app */
+"Tervetuloa! Näissä kuplissa esitetään nopeita vinkkejä sovelluksen käyttöön" = "Tervetuloa! Näissä kuplissa esitetään nopeita vinkkejä sovelluksen käyttöön";
+
+/* Corollary actions toggle announcement */
+"Uutta versiossa 1.8: automaattiset käteistapahtumat" = "Uutta versiossa 1.8: automaattiset käteistapahtumat";
+
+/* iCloud storage toggle announcement */
+"Uutta versiossa 1.8: iCloud-tallennus" = "Uutta versiossa 1.8: iCloud-tallennus";
+
+/* Switching game displays */
+"Vaihda näkymää napauttamalla" = "Vaihda näkymää napauttamalla";
+
+/* Choosing title sort order */
+"Vaihda pelien järjestystä napauttamalla" = "Vaihda pelien järjestystä napauttamalla";
+
+/* Forcing Stations to be run or avoided */
+"Valitse asemia ajettaviksi tai väistettäviksi napauttamalla ja pitämällä heksaa painettuna" = "Valitse asemia ajettaviksi tai väistettäviksi napauttamalla ja pitämällä heksaa painettuna";
+
+/* Picking a title for play */
+"Valitse peli napauttamalla" = "Valitse peli napauttamalla";
+
+/* Choosing Company assets for running */
+"Valitse yhtiön käyttöomaisuus (junat ja lisenssit) napauttamalla" = "Valitse yhtiön käyttöomaisuus (junat ja lisenssit) napauttamalla";
+

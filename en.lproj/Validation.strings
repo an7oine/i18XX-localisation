@@ -1,0 +1,69 @@
+﻿/* Virheteksti */
+"Asema ei ole yhteydessä rataverkkoon" = "No connection to existing track";
+
+/* Virheteksti */
+"Asema on jo täynnä" = "No free slot for Token";
+
+/* Virheteksti */
+"Asema on varattu toiselle yhtiölle" = "Slot reserved for another Company";
+
+/* Virheteksti */
+"Aseman arvo ei nouse" = "No rise in Station value";
+
+/* Virheteksti */
+"Ei ajokelpoista reittiä laatalle" = "No runnable Route";
+
+/* Virheteksti (1829 Mainline) */
+"Ei ratayhteyttä" = "No track connection";
+
+/* Virheteksti */
+"Ei ratayhteyttä asemalle" = "No connection to a Token";
+
+/* Virheteksti */
+"Ei ratayhteyttä laatalle" = "Disjoint Tile";
+
+/* Virheteksti */
+"Heksa on varattu toiselle yhtiölle" = "Hexag is reserved for another Company";
+
+/* Virheteksti (1829 Mainline) */
+"Jyrkkä mutka" = "Sharp Curve";
+
+/* Virheteksti (1829 Mainline) */
+"Kaikkien heksojen on oltava tyhjiä" = "Only empty hexags may be laid upon";
+
+/* Virheteksti */
+"Kassa ei riitä" = "Out of cash";
+
+/* Virheteksti (1829 Mainline) */
+"Laatan vaihto päättää laattojen asettelun" = "Upgrading a Tile concludes the Tile phase";
+
+/* Virheteksti */
+"Olemassaoleva asema puuttuu" = "Missing an existing Station";
+
+/* Virheteksti */
+"Olemassaoleva yhteys puuttuu" = "Missing an existing Connection";
+
+/* Virheteksti */
+"Suljettu ratayhteys" = "Blocked track";
+
+/* Virheteksti */
+"Väärä laatta" = "Wrong tile";
+
+/* Virheteksti (1829 Mainline) */
+"Väärä ratalinja" = "Wrong track";
+
+/* Virheteksti */
+"Vääränvärinen laatta" = "Wrong Tile colour";
+
+/* Virheteksti */
+"Viereinen laatta estää rakentamisen" = "Blocked by an adjacent Tile";
+
+/* Virheteksti */
+"Virheellinen aseman sijoitus" = "Invalid Token placement";
+
+/* Virheteksti (1829 Mainline) */
+"Yhteys isolle asemalle" = "Connected with a Large Station";
+
+/* Virheteksti */
+"Yhtiöllä on jo asema samalla laatalla" = "Existing Company Token on Tile";
+
