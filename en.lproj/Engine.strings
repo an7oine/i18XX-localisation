@@ -78,6 +78,12 @@
 /* Siirron tyyppi */
 "laatta #%@, heksa %@ (%@)" = "tile #%1$@, hexag %2$@ (%3$@)";
 
+/* Siirron tyyppi */
+"lainan maksu (%@): %@" = "borrow (%1$@): %2$@";
+
+/* Siirron tyyppi */
+"lainan nosto (%@): %@" = "repay (%1$@): %2$@";
+
 /* Laatan väri */
 "Läpinäkyvä" = "Clear";
 
@@ -179,9 +185,3 @@
 /* Osakkeiden omistaja merkintähetkellä */
 "Yhtiö" = "Treasury";
 
-
-/* Redundant strings:
-
-"%@ (%@): %d" = "%1$@ (%2$@): %3$d";
-
- */

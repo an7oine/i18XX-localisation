@@ -253,6 +253,9 @@
 /* Share worth at which the game ends */
 "Pelin päättävä osakkeen arvo" = "Game-over SPI threshold";
 
+/* Size of a single loan issued by the bank */
+"Pienin nostokelpoinen lainaerä" = "Unit size of loans issued";
+
 /* One Small Station on a Tile may be converted into Plain Track (Yellow-to-Yellow) */
 "Poista kylä radan varresta" = "Villages may convert into Plain track";
 

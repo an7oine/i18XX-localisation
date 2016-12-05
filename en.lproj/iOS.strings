@@ -177,6 +177,9 @@
 /* Pelien lajittelutapa */
 "Järjestä suunnittelijan mukaan" = "Sort by designer";
 
+/* Company info */
+"Johtaja: %@" = "Director: %@";
+
 /* Operatiivisen omaisuuden otsikko
    Yhtiön tiedot */
 "Junat" = "Trains";
@@ -325,6 +328,9 @@
 
 /* Ajoasetukset */
 "Normaali ajo" = "Normal run";
+
+/* Take or repay loans */
+"Nosta tai maksa velkaa" = "Take or repay loans";
 
 /* Player net worth */
 "Nyt" = "Now";
@@ -502,6 +508,9 @@
 /* Round title */
 "SDR" = "SDR";
 
+/* Transfer Cash from Company Director */
+"Siirrä johtajan varoja" = "Transfer Director funds";
+
 /* Option to insert automatic cash transactions */
 "Siirrä käteistä automaattisesti" = "Insert automatic cash transactions";
 
@@ -584,6 +593,9 @@
 /* Valintanäytön painike */
 "Valinnat..." = "Options...";
 
+/* Company info */
+"Velat" = "Debt";
+
 /* Information title */
 "Versio" = "Version";
 
@@ -625,6 +637,9 @@
 
 /* Raideleveys */
 "Yhteiskäyttö" = "Dual";
+
+/* Yhtiön tiedot */
+"Yhtiön arvo" = "Company worth";
 
 /* Osakekauppaotsikko */
 "Yhtiön hallussa" = "Treasury shares";

@@ -78,6 +78,12 @@
 /* Siirron tyyppi */
 "laatta #%@, heksa %@ (%@)" = "laatta #%1$@, heksa %2$@ (%3$@)";
 
+/* Siirron tyyppi */
+"lainan maksu (%@): %@" = "lainan maksu (%1$@): %2$@";
+
+/* Siirron tyyppi */
+"lainan nosto (%@): %@" = "lainan nosto (%1$@): %2$@";
+
 /* Laatan väri */
 "Läpinäkyvä" = "Läpinäkyvä";
 
