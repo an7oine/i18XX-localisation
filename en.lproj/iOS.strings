@@ -143,12 +143,6 @@
    Reittien laskenta */
 "Ei tuottoa" = "No earnings";
 
-/* Mainosteksti */
-"Hanki lisäosa" = "Purchase add-on";
-
-/* Corollary actions alert message */
-"Hanki Osakemarkkinat-lisäosa, jotta voit asettaa automaattiset käteissiirrot päälle" = "Purchase the Finances add-on in order to enable automatic cash transactions";
-
 /* Button
    Painike */
 "Hyväksy" = "OK";
@@ -366,9 +360,6 @@
 
 /* Välilehti */
 "Osakekurssit" = "SPI";
-
-/* Corollary actions alert title */
-"Osakemarkkinat-lisäosa vaaditaan" = "Finances add-on required";
 
 /* Pelitilanneotsikko */
 "Osakesalkku" = "Portfolio";

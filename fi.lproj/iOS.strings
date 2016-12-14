@@ -142,12 +142,6 @@
    Reittien laskenta */
 "Ei tuottoa" = "Ei tuottoa";
 
-/* Mainosteksti */
-"Hanki lisäosa" = "Hanki lisäosa";
-
-/* Corollary actions alert message */
-"Hanki Osakemarkkinat-lisäosa, jotta voit asettaa automaattiset käteissiirrot päälle" = "Hanki Osakemarkkinat-lisäosa, jotta voit asettaa automaattiset käteissiirrot päälle";
-
 /* Button
    Painike */
 "Hyväksy" = "Hyväksy";
@@ -365,9 +359,6 @@
 
 /* Välilehti */
 "Osakekurssit" = "Osakekurssit";
-
-/* Corollary actions alert title */
-"Osakemarkkinat-lisäosa vaaditaan" = "Osakemarkkinat-lisäosa vaaditaan";
 
 /* Pelitilanneotsikko */
 "Osakesalkku" = "Osakesalkku";
