@@ -1,0 +1,19 @@
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="Content-Style-Type" content="text/css">
+            <title>Gauge Help</title>
+            <meta name="AppleTitle" content="com.mcl.gauge.help">
+</head>
+<body>
+	<h4>Tile definition structure:</h4>
+    <p>#[tile_properties] &lt;location_definitions&gt; &lt;connection_definitions&gt; &rdquo;imprinted text&rdquo;</p>
+	<p>where</p>
+	<ul>
+	<li>[tile_properties] : comma-separated list containing: code,[colour_abbreviation]&lt;(number_of_distinct_orientations)&gt;</li>
+	<li>&lt;location_definitions&gt; : comma-separated list of definitions: [type_abbreviation]&lt;(value)&gt;&lt;number_of_slots&gt;</li>
+	<li>&lt;connection_definitions&gt; : comma-separated list of definitions: [starting_edge_or_location][gauge_of_track][ending_edge_or_location]</li>
+	<li>[colour_abbreviation] : (a combination of) F for buff, Y for yellow, E for green, R for russet, G for grey</li>
+	<li>[type_abbreviation] : C for city, V for village, O for offboard, J for junction</li>
+	<li>[starting/ending_edge_or_location] : 0..5 for edges SW..SE, S0..Sn for an index to intra-tile locations given above</li>
+	<li>[gauge_of_track] : - for regular, = for narrow, + for dual</li>
+</body>
