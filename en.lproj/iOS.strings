@@ -649,6 +649,3 @@
 /* Route optimisation time-out off */
 "∞" = "∞";
 
-/* Dummy holder title */
-"● ● ●" = "● ● ●";
-
