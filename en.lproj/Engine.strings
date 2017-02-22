@@ -102,6 +102,9 @@
 /* Tile colour */
 "Muu väri" = "Other colour";
 
+/* Fixed earnings turn description */
+"muut" = "others";
+
 /* Track gauge */
 "Normaali raideväli" = "Regular Gauge";
 
@@ -116,6 +119,9 @@
 
 /* Siirron tyyppi */
 "osakekanta (%@): %@ / %ld" = "equity (%1$@): %2$@ / %3$ld";
+
+/* Initial phase */
+"Pelin alku" = "Game start";
 
 /* Laatan väri */
 "Pinkki" = "Pink";

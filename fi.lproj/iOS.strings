@@ -46,9 +46,6 @@
 /* Tilasto */
 "%u peliä / %ld kt" = "%1$u peliä / %2$ld kt";
 
-/* Pelaajan lisäys */
-"(Ei pelaajaa)" = "(Ei pelaajaa)";
-
 /* Tuotonjakorivi */
 "(Kassa)" = "(Kassa)";
 
@@ -386,6 +383,9 @@
    Osakekauppa */
 "Osta %@ (%@)" = "Osta %1$@ (%2$@)";
 
+/* Trading submenu */
+"Osta tai myy" = "Osta tai myy";
+
 /* Siirron kuvaus */
 "Osto: %@" = "Osto: %@";
 
@@ -445,9 +445,6 @@
 
 /* Painike */
 "Pelivaihe (alku)" = "Pelivaihe (alku)";
-
-/* Painike */
-"Pelivaihe..." = "Pelivaihe...";
 
 /* Otsikko */
 "Pelivuoro" = "Pelivuoro";
@@ -536,9 +533,6 @@
 /* Pelitilanneotsikko */
 "Tuotot" = "Tuotot";
 
-/* Painike */
-"Tuotot..." = "Tuotot...";
-
 /* Osakkeen tiedot
    Train income breakdown */
 "Tuotto" = "Tuotto";
@@ -574,7 +568,11 @@
 /* Top Shelf section idenfier */
 "Uusimpia pelejä" = "Uusimpia pelejä";
 
-/* Siirron kuvaus */
+/* Button to change game Turn */
+"Vaihda..." = "Vaihda...";
+
+/* Siirron kuvaus
+   Turn button */
 "Vaihe: %@" = "Vaihe: %@";
 
 /* Aseman tuotto */
@@ -610,8 +608,8 @@
 /* Ajoasetukset */
 "Vuokrattu juna" = "Vuokrattu juna";
 
-/* Painike */
-"Vuoro..." = "Vuoro...";
+/* Turn button */
+"Vuoro: %@" = "Vuoro: %@";
 
 /* Yhtiölistan otsikko */
 "Vuorossa oleva yhtiö" = "Vuorossa oleva yhtiö";

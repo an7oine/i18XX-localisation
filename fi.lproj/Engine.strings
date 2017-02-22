@@ -102,6 +102,9 @@
 /* Tile colour */
 "Muu väri" = "Muu väri";
 
+/* Fixed earnings turn description */
+"muut" = "muut";
+
 /* Track gauge */
 "Normaali raideväli" = "Normaali raideväli";
 
@@ -116,6 +119,9 @@
 
 /* Siirron tyyppi */
 "osakekanta (%@): %@ / %ld" = "osakekanta (%1$@): %2$@ / %3$ld";
+
+/* Initial phase */
+"Pelin alku" = "Pelin alku";
 
 /* Laatan väri */
 "Pinkki" = "Pinkki";

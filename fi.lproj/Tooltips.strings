@@ -11,7 +11,7 @@
 "Aseta pelivaihe (ostettu juna) napauttamalla" = "Aseta pelivaihe (ostettu juna) napauttamalla";
 
 /* Switching game turns */
-"Aseta pelivuoro napauttamalla" = "Aseta pelivuoro napauttamalla";
+"Aseta pelivuoro napauttamalla ja pitämällä hetki painettuna" = "Aseta pelivuoro napauttamalla ja pitämällä hetki painettuna";
 
 /* Tokenable tile tapped and held */
 "Aseta tai poista asemia ja muita pelimerkkejä napauttamalla ja pitämällä heksaa hetki painettuna" = "Aseta tai poista asemia ja muita pelimerkkejä napauttamalla ja pitämällä heksaa hetki painettuna";
@@ -36,9 +36,6 @@
 
 /* Checking per-Train Earnings */
 "Katso kunkin junan keräämät tuotot napauttamalla sen reittiä" = "Katso kunkin junan keräämät tuotot napauttamalla sen reittiä";
-
-/* Displaying off-turn earnings */
-"Laske ja näytä minkä tahansa yhtiön tuotot napauttamalla ja pitämällä hetki painettuna" = "Laske ja näytä minkä tahansa yhtiön tuotot napauttamalla ja pitämällä hetki painettuna";
 
 /* Taking further action */
 "Lisää toimintoja napauttamalla" = "Lisää toimintoja napauttamalla";

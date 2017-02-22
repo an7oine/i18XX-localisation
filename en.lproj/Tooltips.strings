@@ -11,7 +11,7 @@
 "Aseta pelivaihe (ostettu juna) napauttamalla" = "Tap to set game Phase (purchased train type)";
 
 /* Switching game turns */
-"Aseta pelivuoro napauttamalla" = "Tap to set play turn";
+"Aseta pelivuoro napauttamalla ja pitämällä hetki painettuna" = "Tap and hold to switch play turns";
 
 /* Tokenable tile tapped and held */
 "Aseta tai poista asemia ja muita pelimerkkejä napauttamalla ja pitämällä heksaa hetki painettuna" = "Tap and hold a hexag to place or remove Tokens";
@@ -36,9 +36,6 @@
 
 /* Checking per-Train Earnings */
 "Katso kunkin junan keräämät tuotot napauttamalla sen reittiä" = "Tap on a route to check invidividual Train earnings";
-
-/* Displaying off-turn earnings */
-"Laske ja näytä minkä tahansa yhtiön tuotot napauttamalla ja pitämällä hetki painettuna" = "Tap and hold to show earnings for any operating Company";
 
 /* Taking further action */
 "Lisää toimintoja napauttamalla" = "Tap for further options";

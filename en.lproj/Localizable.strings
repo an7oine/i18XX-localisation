@@ -4,7 +4,8 @@
 /* Bonus token (hexag) */
 "Bonus: %@" = "Bonus: %@";
 
-/* Pelivaihe */
+/* Pelivaihe
+   Phase */
 "code" = "code";
 
 /* Valinta-alkio */
