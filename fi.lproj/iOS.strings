@@ -180,6 +180,9 @@
 /* Raideleveys */
 "Kapea" = "Kapea";
 
+/* Earnings screen toolbar button title */
+"Kassa: %@" = "Kassa: %@";
+
 /* Company info
    Pelaajan tiedot
    Player cash in hand */
@@ -568,8 +571,8 @@
 /* Top Shelf section idenfier */
 "Uusimpia pelejä" = "Uusimpia pelejä";
 
-/* Button to change game Turn */
-"Vaihda..." = "Vaihda...";
+/* Button to switch turns */
+"Vaihda" = "Vaihda";
 
 /* Siirron kuvaus
    Turn button */
