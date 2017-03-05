@@ -7,7 +7,8 @@
 /* Aseman tuotto */
 "%@ %ld (aseta)" = "%1$@ %2$ld (aseta)";
 
-/* Junakaupparivi */
+/* Junakaupparivi
+   Junavalintarivi */
 "%@ (%ld kpl)" = "%1$@ (%2$ld kpl)";
 
 /* Default match title: code and date */
@@ -15,6 +16,9 @@
 
 /* Laskurin asetus */
 "%@ :" = "%@ :";
+
+/* Osakesalkun sisältö */
+"%@ saatavilla" = "%@ saatavilla";
 
 /* Pelin valinta-alkion teksti */
 "%@, %d–%d pelaajaa" = "%1$@, %2$d–%3$d pelaajaa";
@@ -180,9 +184,6 @@
 /* Raideleveys */
 "Kapea" = "Kapea";
 
-/* Earnings screen toolbar button title */
-"Kassa: %@" = "Kassa: %@";
-
 /* Company info
    Pelaajan tiedot
    Player cash in hand */
@@ -193,6 +194,9 @@
 
 /* Junakauppaotsikko */
 "Käytetyt junat" = "Käytetyt junat";
+
+/* Junakauppaotsikko */
+"Käytössä olevat junat" = "Käytössä olevat junat";
 
 /* Painike */
 "Käyttömaisuus..." = "Käyttömaisuus...";
@@ -259,6 +263,9 @@
    Yhtiölistan otsikko */
 "Lisää" = "Lisää";
 
+/* Junavalintarivi */
+"Lisää %@" = "Lisää %@";
+
 /* Otsikko pelin konfigurointinäkymässä */
 "Lisäosat ja säännöt" = "Lisäosat ja säännöt";
 
@@ -279,6 +286,9 @@
 "Markkinat" = "Markkinat";
 
 /* Ajoasetukset */
+"Muokkaa junia..." = "Muokkaa junia...";
+
+/* Ajoasetukset */
 "Muokkaa kokonaistuottoa" = "Muokkaa kokonaistuottoa";
 
 /* Syöttöikkunan otsikko */
@@ -287,11 +297,15 @@
 /* Rivitoiminto */
 "Muut" = "Muut";
 
+/* Junakauppaotsikko */
+"Muut junat" = "Muut junat";
+
 /* Junakauppaotsikko
    Osakekauppaotsikko */
 "Muut omistajat" = "Muut omistajat";
 
-/* Osakekauppaotsikko */
+/* Osakekauppaotsikko
+   Trading section */
 "Muut yhtiöt" = "Muut yhtiöt";
 
 /* Osakekauppa */
@@ -345,6 +359,9 @@
 /* Osakekauppaotsikko */
 "Omat osakkeet" = "Omat osakkeet";
 
+/* Trading section */
+"Omistukset" = "Omistukset";
+
 /* Round title */
 "OR %ld" = "OR %ld";
 
@@ -363,9 +380,6 @@
 /* Pelitilanneotsikko */
 "Osakesalkku" = "Osakesalkku";
 
-/* Yhtiölistan otsikko */
-"Osakeyhtiöt" = "Osakeyhtiöt";
-
 /* Painike */
 "Osakkeen arvo..." = "Osakkeen arvo...";
 
@@ -373,7 +387,8 @@
    Tuotonjako-otsikko */
 "Osingonjako" = "Osingonjako";
 
-/* Osakesalkun sisältö */
+/* Earnings screen button
+   Osakesalkun sisältö */
 "Osinko" = "Osinko";
 
 /* Otsikko */
@@ -386,7 +401,7 @@
    Osakekauppa */
 "Osta %@ (%@)" = "Osta %1$@ (%2$@)";
 
-/* Trading submenu */
+/* Account table choice */
 "Osta tai myy" = "Osta tai myy";
 
 /* Siirron kuvaus */
@@ -464,6 +479,12 @@
 /* Varmistusteksti */
 "Peru %ld siirtoa" = "Peru %ld siirtoa";
 
+/* Rivitoiminto */
+"Peru siirto" = "Peru siirto";
+
+/* Rivitoiminto */
+"Peru vain tämä" = "Peru vain tämä";
+
 /* Section header */
 "Pikaohjeet" = "Pikaohjeet";
 
@@ -472,6 +493,9 @@
    Taulukon otsikko
    Yhtiölistan otsikko */
 "Poista" = "Poista";
+
+/* Junavalintarivi */
+"Poista %@" = "Poista %@";
 
 /* Raideleveys */
 "Puolikas" = "Puolikas";
@@ -497,6 +521,9 @@
 
 /* Round title */
 "SDR" = "SDR";
+
+/* Button to switch turns */
+"Seuraava" = "Seuraava";
 
 /* Transfer Cash from Company Director */
 "Siirrä johtajan varoja" = "Siirrä johtajan varoja";
@@ -536,7 +563,8 @@
 /* Pelitilanneotsikko */
 "Tuotot" = "Tuotot";
 
-/* Osakkeen tiedot
+/* Earnings screen title
+   Osakkeen tiedot
    Train income breakdown */
 "Tuotto" = "Tuotto";
 
@@ -638,11 +666,8 @@
 /* Osakkeen tiedot */
 "Yhtiön toiminta" = "Yhtiön toiminta";
 
-/* Yhtiölistaus */
-"Yhtiön tuotot" = "Yhtiön tuotot";
-
 /* Osakekauppaotsikko
-   Yhtiölistan otsikko */
+   Trading section */
 "Yksityiset yhtiöt" = "Yksityiset yhtiöt";
 
 /* Route optimisation time-out off */

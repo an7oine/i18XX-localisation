@@ -46,9 +46,6 @@
 /* Viewing app info/settings screen */
 "Lue lisää 18XX-peleistä, katso sovelluksen tiedot tai muokkaa asetuksia napauttamalla" = "Tap for more information about 18XX games or about the app, or change app settings";
 
-/* Modifying total earnings and route settings */
-"Muokkaa kokonaistuottoa tai reititysasetuksia napauttamalla" = "Tap to modify total earnings or set routing options";
-
 /* Editing SPI in response to Earnings */
 "Muokkaa osakekurssia napauttamalla. Sovellus ehdottaa uutta markkina-arvoa toimitetun osingonjaon perusteella" = "Tap to modify SPI point. The app will suggest a new share value based on the collected Earnings";
 
@@ -78,6 +75,9 @@
 
 /* Closing Earnings display */
 "Palaa pelin perusnäkymään napauttamalla" = "Tap to close and return to the normal game display";
+
+/* Modifying total earnings and route settings */
+"Pysäytä laskenta, muokkaa kokonaistuottoa tai reititysasetuksia napauttamalla" = "Tap to stop calculation, modify total earnings, or set routing options";
 
 /* Swiping for more match options */
 "Pyyhkäise vasemmalle nähdäksesi lisää vaihtoehtoja" = "Swipe left for further options";

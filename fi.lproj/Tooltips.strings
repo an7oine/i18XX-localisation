@@ -46,9 +46,6 @@
 /* Viewing app info/settings screen */
 "Lue lisää 18XX-peleistä, katso sovelluksen tiedot tai muokkaa asetuksia napauttamalla" = "Lue lisää 18XX-peleistä, katso sovelluksen tiedot tai muokkaa asetuksia napauttamalla";
 
-/* Modifying total earnings and route settings */
-"Muokkaa kokonaistuottoa tai reititysasetuksia napauttamalla" = "Muokkaa kokonaistuottoa tai reititysasetuksia napauttamalla";
-
 /* Editing SPI in response to Earnings */
 "Muokkaa osakekurssia napauttamalla. Sovellus ehdottaa uutta markkina-arvoa toimitetun osingonjaon perusteella" = "Muokkaa osakekurssia napauttamalla. Sovellus ehdottaa uutta markkina-arvoa toimitetun osingonjaon perusteella";
 
@@ -78,6 +75,9 @@
 
 /* Closing Earnings display */
 "Palaa pelin perusnäkymään napauttamalla" = "Palaa pelin perusnäkymään napauttamalla";
+
+/* Modifying total earnings and route settings */
+"Pysäytä laskenta, muokkaa kokonaistuottoa tai reititysasetuksia napauttamalla" = "Pysäytä laskenta, muokkaa kokonaistuottoa tai reititysasetuksia napauttamalla";
 
 /* Swiping for more match options */
 "Pyyhkäise vasemmalle nähdäksesi lisää vaihtoehtoja" = "Pyyhkäise vasemmalle nähdäksesi lisää vaihtoehtoja";
