@@ -383,7 +383,8 @@
 /* Painike */
 "Osakkeen arvo..." = "Osakkeen arvo...";
 
-/* Otsikko
+/* Earnings screen title
+   Otsikko
    Tuotonjako-otsikko */
 "Osingonjako" = "Osingonjako";
 
@@ -528,8 +529,8 @@
 /* Transfer Cash from Company Director */
 "Siirrä johtajan varoja" = "Siirrä johtajan varoja";
 
-/* Option to insert automatic cash transactions */
-"Siirrä käteistä automaattisesti" = "Siirrä käteistä automaattisesti";
+/* Option to insert automatic corollary actions */
+"Siirtoautomatiikka" = "Siirtoautomatiikka";
 
 /* Painike
    Rivitoiminto */
@@ -667,6 +668,7 @@
 "Yhtiön toiminta" = "Yhtiön toiminta";
 
 /* Osakekauppaotsikko
+   Section header
    Trading section */
 "Yksityiset yhtiöt" = "Yksityiset yhtiöt";
 

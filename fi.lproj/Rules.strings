@@ -127,6 +127,9 @@
 /* Company Tokens are placed in its Base Station(s) immediately upon floating */
 "Kotiasema yhtiön käynnistyessä" = "Kotiasema yhtiön käynnistyessä";
 
+/* Cost of upgrading any Tile */
+"Kunkin laatan päivityskustannus" = "Kunkin laatan päivityskustannus";
+
 /* Cost of laying any Tile */
 "Kunkin laatan rakennuskustannus" = "Kunkin laatan rakennuskustannus";
 

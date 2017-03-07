@@ -1,11 +1,4 @@
-﻿/* MISSING strings:
-
-"Peru siirto" = "Undo action";
-"Peru vain tämä" = "Undo this action only";
-
- */
-
-/* Aseman tuotto */
+﻿/* Aseman tuotto */
 "#%ld %@ %ld (aseta)" = "#%1$ld %2$@ %3$ld (assign)";
 
 /* Aseman tuotto */
@@ -391,7 +384,8 @@
 /* Painike */
 "Osakkeen arvo..." = "Share value...";
 
-/* Otsikko
+/* Earnings screen title
+   Otsikko
    Tuotonjako-otsikko */
 "Osingonjako" = "Issue dividend";
 
@@ -488,8 +482,10 @@
 "Peru %ld siirtoa" = "Undo %ld moves";
 
 /* Rivitoiminto */
+"Peru siirto" = "Undo action";
 
 /* Rivitoiminto */
+"Peru vain tämä" = "Undo this action only";
 
 /* Section header */
 "Pikaohjeet" = "Quick tips";
@@ -534,8 +530,8 @@
 /* Transfer Cash from Company Director */
 "Siirrä johtajan varoja" = "Transfer Director funds";
 
-/* Option to insert automatic cash transactions */
-"Siirrä käteistä automaattisesti" = "Insert automatic cash transactions";
+/* Option to insert automatic corollary actions */
+"Siirtoautomatiikka" = "Automatic actions";
 
 /* Painike
    Rivitoiminto */
@@ -674,6 +670,7 @@
 "Yhtiön toiminta" = "Company operations";
 
 /* Osakekauppaotsikko
+   Section header
    Trading section */
 "Yksityiset yhtiöt" = "Private Companies";
 
