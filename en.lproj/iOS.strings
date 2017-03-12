@@ -190,6 +190,9 @@
    Player cash in hand */
 "Käteisvarat" = "Cash balance";
 
+/* Ajoasetukset */
+"Käytä edellisiä reittejä" = "Load previous routes";
+
 /* Option to keep matches in iCloud */
 "Käytä iCloudia" = "Use iCloud";
 
