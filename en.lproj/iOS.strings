@@ -226,7 +226,8 @@
 /* iCloud sign-in alert title */
 "Kirjautuminen vaaditaan" = "Sign-in required";
 
-/* Osakesalkun sisältö */
+/* Osakesalkun sisältö
+   Pelien lajittelutavan lyhenne */
 "Koko" = "Size";
 
 /* Ajoasetukset */
@@ -276,6 +277,9 @@
 /* Information title */
 "Lisätietoa" = "More info";
 
+/* Pelien lajittelutavan lyhenne */
+"Lisätty" = "Added";
+
 /* Operatiivisen omaisuuden otsikko
    Yhtiön tiedot */
 "Lisenssit" = "Licences";
@@ -286,6 +290,9 @@
 /* SPI-otsikko */
 "Lopeta yhtiön toiminta" = "Close Company operations";
 
+/* Pelien lajittelutavan lyhenne */
+"Maa" = "Country";
+
 /* Osakekauppaotsikko */
 "Markkinat" = "Bank Pool";
 
@@ -294,9 +301,6 @@
 
 /* Ajoasetukset */
 "Muokkaa kokonaistuottoa" = "Edit total Earnings";
-
-/* Syöttöikkunan otsikko */
-"Muokkaa pelaajaa" = "Edit player";
 
 /* Rivitoiminto */
 "Muut" = "More";
@@ -333,6 +337,9 @@
 
 /* Osakkeen tiedot */
 "Nimellisarvo" = "Par value";
+
+/* Pelien lajittelutavan lyhenne */
+"Nimi" = "Title";
 
 /* Asemakohtaiset asetukset */
 "Nollaa asetus" = "Reset Station options";
@@ -426,6 +433,9 @@
 
 /* Pelitilanneotsikko */
 "Pelaaja" = "Player";
+
+/* Player name input title */
+"Pelaaja %ld:" = "Player %ld:";
 
 /* Otsikko */
 "Pelaajat" = "Players";
@@ -555,6 +565,9 @@
 /* Raideleveys */
 "Tavallinen" = "Regular";
 
+/* Pelien lajittelutavan lyhenne */
+"Tekijä" = "Designer";
+
 /* Section header */
 "Tietoa 18XX-peleistä" = "About 18XX games";
 
@@ -594,11 +607,7 @@
 /* Junakauppaotsikko */
 "Uudet junat" = "New Trains";
 
-/* Syöttöikkunan otsikko */
-"Uusi pelaaja" = "New Player";
-
-/* Match subtitle
-   Pelin konfigurointinäkymän otsikko */
+/* Match subtitle */
 "Uusi peli" = "New match";
 
 /* Top Shelf section idenfier */
@@ -650,6 +659,9 @@
 
 /* Yhtiölistan otsikko */
 "Vuorossa oleva yhtiö" = "Now operating";
+
+/* Pelien lajittelutavan lyhenne */
+"Vuosi" = "Year";
 
 /* Information title */
 "Wiki" = "Wiki";
