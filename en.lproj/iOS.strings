@@ -175,6 +175,9 @@
 /* Company info */
 "Johtaja: %@" = "Director: %@";
 
+/* Version info */
+"Julkaisun nimi" = "Release name";
+
 /* Operatiivisen omaisuuden otsikko
    Yhtiön tiedot */
 "Junat" = "Trains";
@@ -331,8 +334,7 @@
 /* Rivitoiminto */
 "Näytä siirrot" = "Replay moves";
 
-/* Otsikko
-   Rivitoiminto */
+/* Rivitoiminto */
 "Nimeä uudelleen" = "Rename";
 
 /* Osakkeen tiedot */
@@ -343,9 +345,6 @@
 
 /* Asemakohtaiset asetukset */
 "Nollaa asetus" = "Reset Station options";
-
-/* Ajoasetukset */
-"Normaali ajo" = "Normal run";
 
 /* Take or repay loans */
 "Nosta tai maksa velkaa" = "Take or repay loans";
@@ -650,9 +649,6 @@
 
 /* Top Shelf section idenfier */
 "Viimeksi pelattu" = "Latest played";
-
-/* Ajoasetukset */
-"Vuokrattu juna" = "Leased Train";
 
 /* Turn button */
 "Vuoro: %@" = "Turn: %@";

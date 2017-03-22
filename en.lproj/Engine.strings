@@ -19,6 +19,9 @@
 /* Siirron tyyppi */
 "asema (%@), heksa %@" = "token (%1$@), hexag %2$@";
 
+/* Bonus token (hexag) */
+"Bonus: %@" = "Bonus: %@";
+
 /* Säännön tila */
 "Ei" = "No";
 
@@ -60,6 +63,12 @@
 /* Laatan väri */
 "Keltainen/vihreä" = "Yellow/green";
 
+/* Destination marker */
+"Kohde" = "Destination";
+
+/* Destination marker */
+"Kohde: %@" = "Destination: %@";
+
 /* Corrected revenue */
 "Korjaus" = "Corrected";
 
@@ -93,6 +102,9 @@
 /* Siirron tyyppi */
 "luovutus (%@): %@" = "merge (%1$@): %2$@";
 
+/* Survey Party */
+"Maanmittari" = "Survey Party";
+
 /* Osakkeiden omistaja merkintähetkellä */
 "Markkinat" = "Pool";
 
@@ -107,6 +119,9 @@
 
 /* Track gauge */
 "Normaali raideväli" = "Regular Gauge";
+
+/* Default rules for running */
+"Normaalit ajosäännöt" = "Normal run";
 
 /* Virheteksti */
 "Ohjelmavirhe: tiedosto puuttuu" = "Program error: file missing";
@@ -145,6 +160,9 @@
 /* Laatan väri */
 "Sininen" = "Aqua";
 
+/* Survey Party */
+"SP: %@" = "SP: %@";
+
 /* Siirron tyyppi */
 "sulkeminen (%@)" = "close (%@)";
 
@@ -169,6 +187,9 @@
 /* Siirron tyyppi */
 "vaihe %@" = "phase %@";
 
+/* Alternative rules for running */
+"Vaihtoehtoiset ajosäännöt" = "Alternative running rules";
+
 /* Virheteksti peliä ladattaessa */
 "Vähintään %ld pelaajaa" = "Minimum of %ld players";
 
@@ -190,4 +211,7 @@
 
 /* Osakkeiden omistaja merkintähetkellä */
 "Yhtiö" = "Treasury";
+
+/* Token placement */
+"Yksityinen yhtiö: %@" = "Private Company: %@";
 

@@ -349,14 +349,14 @@
 /* Maximum number of Tokens laid per Turn (in addition to any Base Tokens) */
 "Uusia asemia vuorossa" = "Uusia asemia vuorossa";
 
+/* Alternative running Rules applied per user instruction */
+"Vaihtoehtoiset ajosäännöt" = "Vaihtoehtoiset ajosäännöt";
+
 /* Company Tokens are placed in its Base Station(s) at game startup */
 "Valmiiksi painetut kotiasemat" = "Valmiiksi painetut kotiasemat";
 
 /* All Companies have a Destination Marker to be freely placed on any hex */
 "Vapaasti sijoitettavat kohdemerkit" = "Vapaasti sijoitettavat kohdemerkit";
-
-/* Special Rules applied to Earnings collected using a leased Train */
-"Vuokratun junan erityissäännöt" = "Vuokratun junan erityissäännöt";
 
 /* Cost of laying a Tile on a Mountain Hexag */
 "Vuoriheksan rakennuskustannus" = "Vuoriheksan rakennuskustannus";
