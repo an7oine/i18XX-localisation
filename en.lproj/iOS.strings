@@ -347,7 +347,7 @@
 "Nollaa asetus" = "Reset Station options";
 
 /* Take or repay loans */
-"Nosta tai maksa velkaa" = "Take or repay loans";
+"Nosta (+) tai maksa (-) velkaa" = "Withdraw (+) or repay (-) debt";
 
 /* Player net worth */
 "Nyt" = "Now";
@@ -540,7 +540,7 @@
 "Seuraava" = "Next";
 
 /* Transfer Cash from Company Director */
-"Siirrä johtajan varoja" = "Transfer Director funds";
+"Siirrä johtajan varoja yhtiöön" = "Transfer director funds to company";
 
 /* Option to insert automatic corollary actions */
 "Siirtoautomatiikka" = "Automatic actions";

@@ -346,7 +346,7 @@
 "Nollaa asetus" = "Nollaa asetus";
 
 /* Take or repay loans */
-"Nosta tai maksa velkaa" = "Nosta tai maksa velkaa";
+"Nosta (+) tai maksa (-) velkaa" = "Nosta (+) tai maksa (-) velkaa";
 
 /* Player net worth */
 "Nyt" = "Nyt";
@@ -539,7 +539,7 @@
 "Seuraava" = "Seuraava";
 
 /* Transfer Cash from Company Director */
-"Siirrä johtajan varoja" = "Siirrä johtajan varoja";
+"Siirrä johtajan varoja yhtiöön" = "Siirrä johtajan varoja yhtiöön";
 
 /* Option to insert automatic corollary actions */
 "Siirtoautomatiikka" = "Siirtoautomatiikka";
