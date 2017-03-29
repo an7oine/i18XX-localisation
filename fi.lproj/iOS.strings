@@ -339,6 +339,9 @@
 /* Osakkeen tiedot */
 "Nimellisarvo" = "Nimellisarvo";
 
+/* Table header */
+"Nimet" = "Nimet";
+
 /* Pelien lajittelutavan lyhenne */
 "Nimi" = "Nimi";
 
