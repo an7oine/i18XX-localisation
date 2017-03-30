@@ -2,7 +2,7 @@
 "( Jatka napauttamalla )" = "( Tap to continue )";
 
 /* Starting new matches */
-"Aloita uusi 18XX-peli napauttamalla" = "Tap to start a new 18XX match";
+"Aloita uusi peli napauttamalla" = "Tap to start a new match";
 
 /* Making game configuration */
 "Aseta pelikohtainen lisäosa tai asetus päälle/pois napauttamalla" = "Tap to toggle game option or expansion on/off";

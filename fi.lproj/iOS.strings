@@ -32,6 +32,9 @@
 /* Osakesalkun sisältö */
 "%ld + %ld osakekirjaa" = "%1$ld + %2$ld osakekirjaa";
 
+/* Osakesalkun sisältö */
+"%ld / %ld osakekirjaa" = "%1$ld / %2$ld osakekirjaa";
+
 /* Yksityisten yhtiöiden omistus */
 "%ld kpl : %@" = "%1$ld kpl : %2$@";
 
@@ -314,8 +317,7 @@
    Osakekauppaotsikko */
 "Muut omistajat" = "Muut omistajat";
 
-/* Osakekauppaotsikko
-   Trading section */
+/* Osakekauppaotsikko */
 "Muut yhtiöt" = "Muut yhtiöt";
 
 /* Osakekauppa */
@@ -370,9 +372,6 @@
 
 /* Osakekauppaotsikko */
 "Omat osakkeet" = "Omat osakkeet";
-
-/* Trading section */
-"Omistukset" = "Omistukset";
 
 /* Round title */
 "OR %ld" = "OR %ld";
