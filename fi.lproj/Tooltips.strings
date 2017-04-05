@@ -10,9 +10,6 @@
 /* Switching game phases */
 "Aseta pelivaihe (ostettu juna) napauttamalla" = "Aseta pelivaihe (ostettu juna) napauttamalla";
 
-/* Switching game turns */
-"Aseta pelivuoro napauttamalla ja pitämällä hetki painettuna" = "Aseta pelivuoro napauttamalla ja pitämällä hetki painettuna";
-
 /* Tokenable tile tapped and held */
 "Aseta tai poista asemia ja muita pelimerkkejä napauttamalla ja pitämällä heksaa hetki painettuna" = "Aseta tai poista asemia ja muita pelimerkkejä napauttamalla ja pitämällä heksaa hetki painettuna";
 
@@ -31,6 +28,9 @@
 /* Finishing game configuration */
 "Jatka pelaajien valintaan napauttamalla" = "Jatka pelaajien valintaan napauttamalla";
 
+/* Choosing title sort order */
+"Järjestä pelit napauttamalla" = "Järjestä pelit napauttamalla";
+
 /* Checking and issuing dividends */
 "Katso ja toimita osingonjako napauttamalla" = "Katso ja toimita osingonjako napauttamalla";
 
@@ -40,17 +40,8 @@
 /* Taking further action */
 "Lisää toimintoja napauttamalla" = "Lisää toimintoja napauttamalla";
 
-/* Player selection */
-"Lisää uusi pelaaja napauttamalla" = "Lisää uusi pelaaja napauttamalla";
-
 /* Viewing app info/settings screen */
 "Lue lisää 18XX-peleistä, katso sovelluksen tiedot tai muokkaa asetuksia napauttamalla" = "Lue lisää 18XX-peleistä, katso sovelluksen tiedot tai muokkaa asetuksia napauttamalla";
-
-/* Editing SPI in response to Earnings */
-"Muokkaa osakekurssia napauttamalla. Sovellus ehdottaa uutta markkina-arvoa toimitetun osingonjaon perusteella" = "Muokkaa osakekurssia napauttamalla. Sovellus ehdottaa uutta markkina-arvoa toimitetun osingonjaon perusteella";
-
-/* Player selection */
-"Muokkaa pelaajan nimeä napauttamalla" = "Muokkaa pelaajan nimeä napauttamalla";
 
 /* Displaying current account info */
 "Näytä ja muokkaa vuorossa olevan pelaajan tai yhtiön tietoja napauttamalla" = "Näytä ja muokkaa vuorossa olevan pelaajan tai yhtiön tietoja napauttamalla";
@@ -73,9 +64,6 @@
 /* Buying and selling financial assets */
 "Osta ja myy pelaajan omistamia yksityisiä yhtiöitä napauttamalla" = "Osta ja myy pelaajan omistamia yksityisiä yhtiöitä napauttamalla";
 
-/* Closing Earnings display */
-"Palaa pelin perusnäkymään napauttamalla" = "Palaa pelin perusnäkymään napauttamalla";
-
 /* Modifying total earnings and route settings */
 "Pysäytä laskenta, muokkaa kokonaistuottoa tai reititysasetuksia napauttamalla" = "Pysäytä laskenta, muokkaa kokonaistuottoa tai reititysasetuksia napauttamalla";
 
@@ -90,6 +78,9 @@
 
 /* Pan from an edge to switch displays */
 "Siirry näkymien välillä pyyhkäisemällä ruudun reunasta" = "Siirry näkymien välillä pyyhkäisemällä ruudun reunasta";
+
+/* Switching game phases */
+"Siirry seuraavaan pelivaiheeseen napauttamalla ja pitämällä hetki painettuna" = "Siirry seuraavaan pelivaiheeseen napauttamalla ja pitämällä hetki painettuna";
 
 /* Player selection */
 "Tallenna ja jatka napauttamalla" = "Tallenna ja jatka napauttamalla";
@@ -121,15 +112,12 @@
 /* Switching game displays */
 "Vaihda näkymää napauttamalla" = "Vaihda näkymää napauttamalla";
 
-/* Choosing title sort order */
-"Vaihda pelien järjestystä napauttamalla" = "Vaihda pelien järjestystä napauttamalla";
+/* Switching game turns */
+"Vaihda pelivuoroa tai toimita vuorossa olevan yhtiön voitonjako napauttamalla ja pitämällä hetki painettuna" = "Vaihda pelivuoroa tai toimita vuorossa olevan yhtiön voitonjako napauttamalla ja pitämällä hetki painettuna";
 
 /* Forcing Stations to be run or avoided */
 "Valitse asemia ajettaviksi tai väistettäviksi napauttamalla ja pitämällä heksaa painettuna" = "Valitse asemia ajettaviksi tai väistettäviksi napauttamalla ja pitämällä heksaa painettuna";
 
 /* Picking a title for play */
 "Valitse peli napauttamalla" = "Valitse peli napauttamalla";
-
-/* Choosing Company assets for running */
-"Valitse yhtiön käyttöomaisuus (junat ja lisenssit) napauttamalla" = "Valitse yhtiön käyttöomaisuus (junat ja lisenssit) napauttamalla";
 

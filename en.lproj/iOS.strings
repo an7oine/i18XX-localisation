@@ -83,6 +83,9 @@
 /* Twitter handle */
 "@magna_cl" = "@magna_cl";
 
+/* Section footer */
+"Aikarajoitettu tulos osoitetaan tähdellä" = "Constrained results indicated by an asterisk";
+
 /* Version info */
 "Aineisto" = "Resources";
 
@@ -178,9 +181,6 @@
 /* Company info */
 "Johtaja: %@" = "Director: %@";
 
-/* Version info */
-"Julkaisun nimi" = "Release name";
-
 /* Operatiivisen omaisuuden otsikko
    Yhtiön tiedot */
 "Junat" = "Trains";
@@ -241,6 +241,9 @@
 
 /* Otsikko */
 "kolme viikkoa sitten" = "Three weeks ago";
+
+/* Version info */
+"Koodinimi" = "Codename";
 
 /* Button
    iOS
@@ -639,9 +642,6 @@
 
 /* Otsikko */
 "viikko sitten" = "A week ago";
-
-/* Section footer */
-"Viimeisimmän reittimuutoksen jälkeen - aikarajoitettu tulos osoitetaan tähdellä" = "Since last routing update - a time-constrained total will be indicated by an asterisk";
 
 /* Pelitilanneotsikko */
 "Viimeisimmän tuoton mukaan operointikierroksella" = "According to last collected Earnings, per Round";

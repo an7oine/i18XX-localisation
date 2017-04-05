@@ -83,6 +83,9 @@
 /* Twitter handle */
 "@magna_cl" = "@magna_cl";
 
+/* Section footer */
+"Aikarajoitettu tulos osoitetaan tähdellä" = "Aikarajoitettu tulos osoitetaan tähdellä";
+
 /* Version info */
 "Aineisto" = "Aineisto";
 
@@ -177,9 +180,6 @@
 /* Company info */
 "Johtaja: %@" = "Johtaja: %@";
 
-/* Version info */
-"Julkaisun nimi" = "Julkaisun nimi";
-
 /* Operatiivisen omaisuuden otsikko
    Yhtiön tiedot */
 "Junat" = "Junat";
@@ -240,6 +240,9 @@
 
 /* Otsikko */
 "kolme viikkoa sitten" = "kolme viikkoa sitten";
+
+/* Version info */
+"Koodinimi" = "Koodinimi";
 
 /* Button
    iOS
@@ -637,9 +640,6 @@
 
 /* Otsikko */
 "viikko sitten" = "viikko sitten";
-
-/* Section footer */
-"Viimeisimmän reittimuutoksen jälkeen - aikarajoitettu tulos osoitetaan tähdellä" = "Viimeisimmän reittimuutoksen jälkeen - aikarajoitettu tulos osoitetaan tähdellä";
 
 /* Pelitilanneotsikko */
 "Viimeisimmän tuoton mukaan operointikierroksella" = "Viimeisimmän tuoton mukaan operointikierroksella";
