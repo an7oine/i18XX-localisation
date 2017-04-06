@@ -22,6 +22,12 @@
 /* Making game configuration */
 "Avaa asetus- tai lisäosaryhmä napauttamalla" = "Avaa asetus- tai lisäosaryhmä napauttamalla";
 
+/* Searching for matches */
+"Etsi avoin peli nimen, lisäosien tai pelaajien perusteella" = "Etsi avoin peli nimen, lisäosien tai pelaajien perusteella";
+
+/* Searching for titles */
+"Etsi peli nimen, alueen tai suunnittelijan perusteella" = "Etsi peli nimen, alueen tai suunnittelijan perusteella";
+
 /* Resuming an existing match */
 "Jatka aiemmin aloitettua peliä napauttamalla" = "Jatka aiemmin aloitettua peliä napauttamalla";
 

@@ -22,6 +22,12 @@
 /* Making game configuration */
 "Avaa asetus- tai lisäosaryhmä napauttamalla" = "Tap to open a group of options/expansions";
 
+/* Searching for matches */
+"Etsi avoin peli nimen, lisäosien tai pelaajien perusteella" = "Search for match based on title, options, or players";
+
+/* Searching for titles */
+"Etsi peli nimen, alueen tai suunnittelijan perusteella" = "Search for title base on name, region, or designer";
+
 /* Resuming an existing match */
 "Jatka aiemmin aloitettua peliä napauttamalla" = "Tap to resume an existing match";
 
