@@ -23,6 +23,9 @@
 /* Class = "NSMenuItem"; title = "Tee sittenkin"; ObjectID = "6dh-zS-Vam"; */
 "6dh-zS-Vam.title" = "Tee sittenkin";
 
+/* Class = "NSButtonCell"; title = "Vaaka"; ObjectID = "8ag-ZC-iD5"; */
+"8ag-ZC-iD5.title" = "Vaaka";
+
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
 "AYu-sK-qS6.title" = "Main Menu";
 
@@ -46,6 +49,12 @@
 
 /* Class = "NSTextField"; ibShadowedToolTip = "#Koodi,Väri(Asennot) Kaupunki(Arvo)Asemat,... Alkupiste[Raideväli]Loppupiste \"Teksti\""; ObjectID = "De9-bE-UOK"; */
 "De9-bE-UOK.ibShadowedToolTip" = "#Koodi,Väri(Asennot) Kaupunki(Arvo)Asemat,... Alkupiste[Raideväli]Loppupiste \"Teksti\"";
+
+/* Class = "NSToolbarItem"; label = "Laatan koko"; ObjectID = "EJY-Sb-16T"; */
+"EJY-Sb-16T.label" = "Laatan koko";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Laatan koko"; ObjectID = "EJY-Sb-16T"; */
+"EJY-Sb-16T.paletteLabel" = "Laatan koko";
 
 /* Class = "NSMenu"; title = "Ohje"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Ohje";
@@ -85,6 +94,9 @@
 
 /* Class = "NSMenuItem"; title = "Pienennä"; ObjectID = "OY7-WF-poV"; */
 "OY7-WF-poV.title" = "Pienennä";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Muuta laattojen kokoa näytöllä"; ObjectID = "OcD-3y-Bpe"; */
+"OcD-3y-Bpe.ibShadowedToolTip" = "Muuta laattojen kokoa näytöllä";
 
 /* Class = "NSMenuItem"; title = "Kätke Gauge"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Kätke Gauge";
@@ -146,6 +158,9 @@
 /* Class = "NSMenuItem"; title = "Peru"; ObjectID = "dRJ-4n-Yzg"; */
 "dRJ-4n-Yzg.title" = "Peru";
 
+/* Class = "NSWindow"; title = "Window"; ObjectID = "drw-7C-gfr"; */
+"drw-7C-gfr.title" = "Window";
+
 /* Class = "NSButtonCell"; title = "Lisää"; ObjectID = "g5y-uP-913"; */
 "g5y-uP-913.title" = "Lisää";
 
@@ -173,11 +188,20 @@
 /* Class = "NSMenuItem"; title = "Näytä sivupalkki"; ObjectID = "kIP-vf-haE"; */
 "kIP-vf-haE.title" = "Näytä sivupalkki";
 
+/* Class = "NSButton"; ibShadowedToolTip = "Muuta laatan asentoa näytöllä"; ObjectID = "mg3-C4-11W"; */
+"mg3-C4-11W.ibShadowedToolTip" = "Muuta laatan asentoa näytöllä";
+
 /* Class = "NSMenu"; title = "Avaa äskeinen"; ObjectID = "oas-Oc-fiZ"; */
 "oas-Oc-fiZ.title" = "Avaa äskeinen";
 
 /* Class = "NSMenuItem"; title = "Poista"; ObjectID = "pa3-QI-u2k"; */
 "pa3-QI-u2k.title" = "Poista";
+
+/* Class = "NSToolbarItem"; label = "Laatan asento"; ObjectID = "po7-Hb-KMf"; */
+"po7-Hb-KMf.label" = "Laatan asento";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Laatan asento"; ObjectID = "po7-Hb-KMf"; */
+"po7-Hb-KMf.paletteLabel" = "Laatan asento";
 
 /* Class = "NSMenuItem"; title = "Tallenna…"; ObjectID = "pxx-59-PXV"; */
 "pxx-59-PXV.title" = "Tallenna…";
