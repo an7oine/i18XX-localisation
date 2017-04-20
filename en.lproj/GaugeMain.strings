@@ -1,17 +1,4 @@
-﻿/* MISSING strings:
-
-"8ag-ZC-iD5.title" = "<#Vaaka#>";
-"EJY-Sb-16T.label" = "<#Laatan koko#>";
-"EJY-Sb-16T.paletteLabel" = "<#Laatan koko#>";
-"OcD-3y-Bpe.ibShadowedToolTip" = "<#Muuta laattojen kokoa näytöllä#>";
-"drw-7C-gfr.title" = "<#Window#>";
-"mg3-C4-11W.ibShadowedToolTip" = "<#Muuta laatan asentoa näytöllä#>";
-"po7-Hb-KMf.label" = "<#Laatan asento#>";
-"po7-Hb-KMf.paletteLabel" = "<#Laatan asento#>";
-
- */
-
-
+﻿
 /* Class = "NSMenuItem"; title = "Muokkaa työkalupalkkia…"; ObjectID = "1UK-8n-QPP"; */
 "1UK-8n-QPP.title" = "Customize Toolbar…";
 
@@ -36,8 +23,6 @@
 /* Class = "NSMenuItem"; title = "Tee sittenkin"; ObjectID = "6dh-zS-Vam"; */
 "6dh-zS-Vam.title" = "Redo";
 
-/* Class = "NSButtonCell"; title = "Vaaka"; ObjectID = "8ag-ZC-iD5"; */
-
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
 "AYu-sK-qS6.title" = "Main Menu";
 
@@ -61,10 +46,6 @@
 
 /* Class = "NSTextField"; ibShadowedToolTip = "#Koodi,Väri(Asennot) Kaupunki(Arvo)Asemat,... Alkupiste[Raideväli]Loppupiste "Teksti""; ObjectID = "De9-bE-UOK"; */
 "De9-bE-UOK.ibShadowedToolTip" = "#Code,Colour(Orientations) Location(Value)Slots,... Startpoint[Gauge]Endpoint \"Text\"";
-
-/* Class = "NSToolbarItem"; label = "Laatan koko"; ObjectID = "EJY-Sb-16T"; */
-
-/* Class = "NSToolbarItem"; paletteLabel = "Laatan koko"; ObjectID = "EJY-Sb-16T"; */
 
 /* Class = "NSMenu"; title = "Ohje"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Help";
@@ -104,8 +85,6 @@
 
 /* Class = "NSMenuItem"; title = "Pienennä"; ObjectID = "OY7-WF-poV"; */
 "OY7-WF-poV.title" = "Minimize";
-
-/* Class = "NSSlider"; ibShadowedToolTip = "Muuta laattojen kokoa näytöllä"; ObjectID = "OcD-3y-Bpe"; */
 
 /* Class = "NSMenuItem"; title = "Kätke Gauge"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Hide Gauge";
@@ -167,8 +146,6 @@
 /* Class = "NSMenuItem"; title = "Peru"; ObjectID = "dRJ-4n-Yzg"; */
 "dRJ-4n-Yzg.title" = "Undo";
 
-/* Class = "NSWindow"; title = "Window"; ObjectID = "drw-7C-gfr"; */
-
 /* Class = "NSButtonCell"; title = "Lisää"; ObjectID = "g5y-uP-913"; */
 "g5y-uP-913.title" = "Add";
 
@@ -196,17 +173,11 @@
 /* Class = "NSMenuItem"; title = "Näytä sivupalkki"; ObjectID = "kIP-vf-haE"; */
 "kIP-vf-haE.title" = "Show Sidebar";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Muuta laatan asentoa näytöllä"; ObjectID = "mg3-C4-11W"; */
-
 /* Class = "NSMenu"; title = "Avaa äskeinen"; ObjectID = "oas-Oc-fiZ"; */
 "oas-Oc-fiZ.title" = "Open Recent";
 
 /* Class = "NSMenuItem"; title = "Poista"; ObjectID = "pa3-QI-u2k"; */
 "pa3-QI-u2k.title" = "Delete";
-
-/* Class = "NSToolbarItem"; label = "Laatan asento"; ObjectID = "po7-Hb-KMf"; */
-
-/* Class = "NSToolbarItem"; paletteLabel = "Laatan asento"; ObjectID = "po7-Hb-KMf"; */
 
 /* Class = "NSMenuItem"; title = "Tallenna…"; ObjectID = "pxx-59-PXV"; */
 "pxx-59-PXV.title" = "Save…";
