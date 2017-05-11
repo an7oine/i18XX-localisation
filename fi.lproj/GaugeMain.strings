@@ -26,9 +26,6 @@
 /* Class = "NSButtonCell"; title = "Vaaka"; ObjectID = "8ag-ZC-iD5"; */
 "8ag-ZC-iD5.title" = "Vaaka";
 
-/* Class = "NSButtonCell"; title = "Etelään"; ObjectID = "9K6-qg-M08"; */
-"9K6-qg-M08.title" = "Etelään";
-
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
 "AYu-sK-qS6.title" = "Main Menu";
 
@@ -59,20 +56,11 @@
 /* Class = "NSToolbarItem"; paletteLabel = "Laatan koko"; ObjectID = "EJY-Sb-16T"; */
 "EJY-Sb-16T.paletteLabel" = "Laatan koko";
 
-/* Class = "NSToolbarItem"; label = "Laajenna"; ObjectID = "ENM-Hf-XNH"; */
-"ENM-Hf-XNH.label" = "Laajenna";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Laajenna"; ObjectID = "ENM-Hf-XNH"; */
-"ENM-Hf-XNH.paletteLabel" = "Laajenna";
-
 /* Class = "NSMenu"; title = "Ohje"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Ohje";
 
 /* Class = "NSMenuItem"; title = "Gauge-ohje"; ObjectID = "FKE-Sm-Kum"; */
 "FKE-Sm-Kum.title" = "Gauge-ohje";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Lisää uusi laattatyyppi"; ObjectID = "Gt9-k6-Rdw"; */
-"Gt9-k6-Rdw.ibShadowedToolTip" = "Lisää uusi laattatyyppi";
 
 /* Class = "NSMenuItem"; title = "Näytä"; ObjectID = "H8h-7b-M4v"; */
 "H8h-7b-M4v.title" = "Näytä";
@@ -94,12 +82,6 @@
 
 /* Class = "NSMenuItem"; title = "Näytä kaikki"; ObjectID = "Kd2-mp-pUS"; */
 "Kd2-mp-pUS.title" = "Näytä kaikki";
-
-/* Class = "NSToolbarItem"; label = "Laajenna"; ObjectID = "L38-aW-aeh"; */
-"L38-aW-aeh.label" = "Laajenna";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Laajenna"; ObjectID = "L38-aW-aeh"; */
-"L38-aW-aeh.paletteLabel" = "Laajenna";
 
 /* Class = "NSMenuItem"; title = "Tuo kaikki eteen"; ObjectID = "LE2-aR-0XJ"; */
 "LE2-aR-0XJ.title" = "Tuo kaikki eteen";
@@ -146,9 +128,6 @@
 /* Class = "NSMenu"; title = "Muokkaa"; ObjectID = "W48-6f-4Dl"; */
 "W48-6f-4Dl.title" = "Muokkaa";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Lisää uusi laattatyyppi"; ObjectID = "W9T-hC-xaO"; */
-"W9T-hC-xaO.ibShadowedToolTip" = "Lisää uusi laattatyyppi";
-
 /* Class = "NSMenuItem"; title = "Uusi"; ObjectID = "Was-JA-tGl"; */
 "Was-JA-tGl.title" = "Uusi";
 
@@ -194,6 +173,12 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Muuta laatan asentoa näytöllä"; ObjectID = "heB-Jc-3of"; */
 "heB-Jc-3of.ibShadowedToolTip" = "Muuta laatan asentoa näytöllä";
 
+/* Class = "NSToolbarItem"; label = "Laatan osoitus"; ObjectID = "huN-FH-ClD"; */
+"huN-FH-ClD.label" = "Laatan osoitus";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Laatan osoitus"; ObjectID = "huN-FH-ClD"; */
+"huN-FH-ClD.paletteLabel" = "Laatan osoitus";
+
 /* Class = "NSMenuItem"; title = "Tallenna PDF-muodossa..."; ObjectID = "iBe-40-yin"; */
 "iBe-40-yin.title" = "Tallenna PDF-muodossa...";
 
@@ -214,9 +199,6 @@
 
 /* Class = "NSMenu"; title = "Avaa äskeinen"; ObjectID = "oas-Oc-fiZ"; */
 "oas-Oc-fiZ.title" = "Avaa äskeinen";
-
-/* Class = "NSButtonCell"; title = "Itään"; ObjectID = "osi-Db-mPc"; */
-"osi-Db-mPc.title" = "Itään";
 
 /* Class = "NSMenuItem"; title = "Poista"; ObjectID = "pa3-QI-u2k"; */
 "pa3-QI-u2k.title" = "Poista";
