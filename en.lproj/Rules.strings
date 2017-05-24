@@ -28,6 +28,9 @@
 /* A Public Company with a valid Route must own a Train at the end of its Turn */
 "Ajokelpoinen yhtiö vaatii junan" = "Company with a Route needs a Train";
 
+/* Call at any equivalent Station of a Token */
+"Ajon voi aloittaa miltä tahansa ekvivalenssiasemalta" = "Runs may start from any station within the equivalency of a token";
+
 /* Companies to be started immediately */
 "Aloittavat yhtiöt" = "Companies to start";
 
