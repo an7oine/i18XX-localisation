@@ -150,6 +150,9 @@
    Reittien laskenta */
 "Ei tuottoa" = "No earnings";
 
+/* Confirmation when re-migrating v1.8 matches */
+"Haluatko palauttaa vanhan sovellusversion pelit? Kaikki niihin tässä versiossa tehdyt muutokset menetetään." = "Do you want to restore all matches from a previous version of the app? Any new moves made in them, using the current version, will be lost.";
+
 /* Button
    Painike */
 "Hyväksy" = "OK";
@@ -581,6 +584,9 @@
 /* Built-in advert banner
    Section header */
 "Tue ohjelman kehitystä" = "Support development";
+
+/* Choice to re-migrate v1.8 matches */
+"Tuo vanhat pelit uudelleen" = "Re-migrate old matches";
 
 /* Pelitilanneotsikko */
 "Tuotot" = "Growth";
