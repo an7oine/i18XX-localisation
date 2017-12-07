@@ -103,8 +103,12 @@
 /* Information title */
 "Arvioi" = "Rate it";
 
-/* Osakesalkun sisältö */
+/* Osakesalkun sisältö
+   Yksityisen yhtiön tiedot */
 "Arvo" = "Worth";
+
+/* Yksityisen yhtiön tiedot */
+"Arvo..." = "Worth...";
 
 /* Osakesalkun sisältö */
 "Arvonnousu" = "Share growth";

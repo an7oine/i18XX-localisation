@@ -102,8 +102,12 @@
 /* Information title */
 "Arvioi" = "Arvioi";
 
-/* Osakesalkun sisältö */
+/* Osakesalkun sisältö
+   Yksityisen yhtiön tiedot */
 "Arvo" = "Arvo";
+
+/* Yksityisen yhtiön tiedot */
+"Arvo..." = "Arvo...";
 
 /* Osakesalkun sisältö */
 "Arvonnousu" = "Arvonnousu";
