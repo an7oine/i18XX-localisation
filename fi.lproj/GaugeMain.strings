@@ -247,3 +247,6 @@
 
 /* Class = "NSMenuItem"; title = "Kopioi"; ObjectID = "x3v-GG-iWU"; */
 "x3v-GG-iWU.title" = "Kopioi";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Osoitejärjestelmä"; ObjectID = "zwI-h5-auq"; */
+"zwI-h5-auq.placeholderString" = "Osoitejärjestelmä";
