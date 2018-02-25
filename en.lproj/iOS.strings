@@ -198,7 +198,8 @@
 /* Raideleveys */
 "Kapea" = "Narrow";
 
-/* Company info
+/* Account info
+   Company info
    Pelaajan tiedot
    Player cash in hand */
 "Käteisvarat" = "Cash balance";
@@ -641,7 +642,7 @@
 /* Valintanäytön painike */
 "Valinnat..." = "Options...";
 
-/* Company info */
+/* Account info */
 "Velat" = "Debt";
 
 /* Information title */

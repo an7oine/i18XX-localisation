@@ -197,7 +197,8 @@
 /* Raideleveys */
 "Kapea" = "Kapea";
 
-/* Company info
+/* Account info
+   Company info
    Pelaajan tiedot
    Player cash in hand */
 "Käteisvarat" = "Käteisvarat";
@@ -639,7 +640,7 @@
 /* Valintanäytön painike */
 "Valinnat..." = "Valinnat...";
 
-/* Company info */
+/* Account info */
 "Velat" = "Velat";
 
 /* Information title */

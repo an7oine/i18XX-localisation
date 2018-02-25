@@ -259,6 +259,9 @@
 /* Share worth at which the game ends */
 "Pelin päättävä osakkeen arvo" = "Pelin päättävä osakkeen arvo";
 
+/* The game ends immediately at the start of given sequence */
+"Pelin päättymisketju" = "Pelin päättymisketju";
+
 /* Size of a single loan issued by the bank */
 "Pienin nostokelpoinen lainaerä" = "Pienin nostokelpoinen lainaerä";
 
