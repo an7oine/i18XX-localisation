@@ -406,3 +406,6 @@
 /* Cost of laying a Tile beyond the first in each Turn */
 "Ylimääräisen laatan rakennuskustannus" = "Ylimääräisen laatan rakennuskustannus";
 
+/* Lay costs at hexag edges apply to both sides */
+"Ylitysmaksu kummaltakin puolelta" = "Ylitysmaksu kummaltakin puolelta";
+
