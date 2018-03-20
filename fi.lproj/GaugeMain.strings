@@ -23,6 +23,9 @@
 /* Class = "NSMenuItem"; title = "Tee sittenkin"; ObjectID = "6dh-zS-Vam"; */
 "6dh-zS-Vam.title" = "Tee sittenkin";
 
+/* Class = "NSButton"; ibShadowedToolTip = "Lisää uusi laattatyyppi"; ObjectID = "6oS-Np-IQP"; */
+"6oS-Np-IQP.ibShadowedToolTip" = "Lisää uusi laattatyyppi";
+
 /* Class = "NSButtonCell"; title = "Vaaka"; ObjectID = "8ag-ZC-iD5"; */
 "8ag-ZC-iD5.title" = "Vaaka";
 
@@ -61,6 +64,9 @@
 
 /* Class = "NSMenuItem"; title = "Gauge-ohje"; ObjectID = "FKE-Sm-Kum"; */
 "FKE-Sm-Kum.title" = "Gauge-ohje";
+
+/* Class = "NSButtonCell"; title = "Lisää"; ObjectID = "FZY-Pn-T3E"; */
+"FZY-Pn-T3E.title" = "Lisää";
 
 /* Class = "NSMenuItem"; title = "Näytä"; ObjectID = "H8h-7b-M4v"; */
 "H8h-7b-M4v.title" = "Näytä";
@@ -220,6 +226,12 @@
 
 /* Class = "NSToolbarItem"; paletteLabel = "Lisää"; ObjectID = "qa1-ns-EFn"; */
 "qa1-ns-EFn.paletteLabel" = "Lisää";
+
+/* Class = "NSToolbarItem"; label = "Lisää"; ObjectID = "rd5-3x-JTH"; */
+"rd5-3x-JTH.label" = "Lisää";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Lisää"; ObjectID = "rd5-3x-JTH"; */
+"rd5-3x-JTH.paletteLabel" = "Lisää";
 
 /* Class = "NSMenuItem"; title = "Näytä työkalupalkki"; ObjectID = "snW-S8-Cw5"; */
 "snW-S8-Cw5.title" = "Näytä työkalupalkki";
