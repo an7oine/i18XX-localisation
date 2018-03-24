@@ -124,6 +124,9 @@
 /* Only one Train may score any Station per Turn */
 "Kerää asemien tuotto vain kerran" = "Score called Stations once per turn";
 
+/* Only one Station per Hexag may be scored by each Train */
+"Kerää vain yhden aseman tuotto samalta laatalta" = "Only collect revenue once per Tile per Route";
+
 /* The game ends immediately if a Player goes Bankrupt */
 "Konkurssi päättää pelin heti" = "Immediate ending at Bankruptcy";
 

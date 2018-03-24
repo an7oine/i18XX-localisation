@@ -124,6 +124,9 @@
 /* Only one Train may score any Station per Turn */
 "Kerää asemien tuotto vain kerran" = "Kerää asemien tuotto vain kerran";
 
+/* Only one Station per Hexag may be scored by each Train */
+"Kerää vain yhden aseman tuotto samalta laatalta" = "Kerää vain yhden aseman tuotto samalta laatalta";
+
 /* The game ends immediately if a Player goes Bankrupt */
 "Konkurssi päättää pelin heti" = "Konkurssi päättää pelin heti";
 
