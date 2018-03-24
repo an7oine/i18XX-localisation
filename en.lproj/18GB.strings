@@ -1,0 +1,25 @@
+﻿/*
+  18GB.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 22.3.2018.
+  Copyright © 2018 Magna cum laude. All rights reserved.
+*/
+
+"Kaksi pelaajaa" = "Two Players";
+"Pohjoisesta etelään" = "North to South";
+"Idästä länteen" = "East to West";
+
+"Kolme pelaajaa" = "Three Players";
+"GWR-yhtiö" = "GWR included";
+"MSLR-yhtiö" = "MSLR included";
+"GSWR-yhtiö" = "GSWR included";
+
+"Neljä pelaajaa" = "Four Players";
+"MSLR-, GSWR- ja MC-yhtiöt" = "MSLR, GSWR, and MC included";
+
+"Asetelmia ei voi yhdistää" = "Scenarios may not be combined";
+
+"Valitse kolme tai neljä pelaajaa" = "Choose three or four players";
+
+"Valitse vain yksi kolmesta yhtiöstä" = "Choose only one of the three companies";

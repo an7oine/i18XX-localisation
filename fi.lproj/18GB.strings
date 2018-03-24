@@ -1,0 +1,25 @@
+/*
+  18GB.strings
+  i18XX
+
+  Created by Antti Hautaniemi on 22.3.2018.
+  Copyright © 2018 Magna cum laude. All rights reserved.
+*/
+
+"Kaksi pelaajaa" = "Kaksi pelaajaa";
+"Pohjoisesta etelään" = "Pohjoisesta etelään";
+"Idästä länteen" = "Idästä länteen";
+
+"Kolme pelaajaa" = "Kolme pelaajaa";
+"GWR-yhtiö" = "GWR-yhtiö";
+"MSLR-yhtiö" = "MSLR-yhtiö";
+"GSWR-yhtiö" = "GSWR-yhtiö";
+
+"Neljä pelaajaa" = "Neljä pelaajaa";
+"MSLR-, GSWR- ja MC-yhtiöt" = "MSLR-, GSWR- ja MC-yhtiöt";
+
+"Asetelmia ei voi yhdistää" = "Asetelmia ei voi yhdistää";
+
+"Valitse kolme tai neljä pelaajaa" = "Valitse kolme tai neljä pelaajaa";
+
+"Valitse vain yksi kolmesta yhtiöstä" = "Valitse vain yksi kolmesta yhtiöstä";
