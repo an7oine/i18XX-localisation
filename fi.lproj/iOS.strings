@@ -209,6 +209,9 @@
 /* Option to keep matches in iCloud */
 "Käytä iCloudia" = "Käytä iCloudia";
 
+/* Ajoasetukset */
+"Käytettävä kalusto" = "Käytettävä kalusto";
+
 /* Junakauppaotsikko */
 "Käytetyt junat" = "Käytetyt junat";
 
@@ -311,9 +314,6 @@
 
 /* Osakekauppaotsikko */
 "Markkinat" = "Markkinat";
-
-/* Ajoasetukset */
-"Muokkaa junia..." = "Muokkaa junia...";
 
 /* Ajoasetukset */
 "Muokkaa kokonaistuottoa" = "Muokkaa kokonaistuottoa";

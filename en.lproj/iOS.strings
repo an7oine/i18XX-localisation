@@ -210,6 +210,9 @@
 /* Option to keep matches in iCloud */
 "Käytä iCloudia" = "Use iCloud";
 
+/* Ajoasetukset */
+"Käytettävä kalusto" = "Assign assets";
+
 /* Junakauppaotsikko */
 "Käytetyt junat" = "Second-hand Trains";
 
@@ -312,9 +315,6 @@
 
 /* Osakekauppaotsikko */
 "Markkinat" = "Bank Pool";
-
-/* Ajoasetukset */
-"Muokkaa junia..." = "Edit Trains...";
 
 /* Ajoasetukset */
 "Muokkaa kokonaistuottoa" = "Edit total Earnings";
