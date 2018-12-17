@@ -1,13 +1,4 @@
-﻿/* MISSING strings:
-
-"6oS-Np-IQP.ibShadowedToolTip" = "<#Lisää uusi laattatyyppi#>";
-"FZY-Pn-T3E.title" = "<#Lisää#>";
-"rd5-3x-JTH.label" = "<#Lisää#>";
-"rd5-3x-JTH.paletteLabel" = "<#Lisää#>";
-
- */
-
-
+﻿
 /* Class = "NSMenuItem"; title = "Muokkaa työkalupalkkia…"; ObjectID = "1UK-8n-QPP"; */
 "1UK-8n-QPP.title" = "Customize Toolbar…";
 

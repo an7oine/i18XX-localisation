@@ -153,6 +153,9 @@
    Reittien laskenta */
 "Ei tuottoa" = "Ei tuottoa";
 
+/* Confirmation when re-migrating v1.8 matches */
+"Haluatko palauttaa vanhan sovellusversion pelit? Kaikki niihin tässä versiossa tehdyt muutokset menetetään." = "Haluatko palauttaa vanhan sovellusversion pelit? Kaikki niihin tässä versiossa tehdyt muutokset menetetään.";
+
 /* Button
    Painike */
 "Hyväksy" = "Hyväksy";
@@ -585,6 +588,9 @@
 /* Built-in advert banner
    Section header */
 "Tue ohjelman kehitystä" = "Tue ohjelman kehitystä";
+
+/* Choice to re-migrate v1.8 matches */
+"Tuo vanhat pelit uudelleen" = "Tuo vanhat pelit uudelleen";
 
 /* Pelitilanneotsikko */
 "Tuotot" = "Tuotot";
